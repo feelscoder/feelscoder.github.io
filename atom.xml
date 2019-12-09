@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>码力全开</title>
+  <title>码力全开 - 独立开发者的聚集地</title>
   
-  
+  <subtitle>码力全开科技工作室</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maliquankai.com/"/>
@@ -256,9 +256,9 @@
       <category term="工具资源" scheme="http://maliquankai.com/categories/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
     
     
-      <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
-    
       <category term="图库网站" scheme="http://maliquankai.com/tags/%E5%9B%BE%E5%BA%93%E7%BD%91%E7%AB%99/"/>
+    
+      <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
     
   </entry>
   
