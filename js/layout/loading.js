@@ -1,1 +1,1 @@
-window.addEventListener("load",function(){!function(){lozad(".lozad",{rootMargin:"10px 0px",threshold:.1}).observe();var e=document.getElementById("page");document.getElementById("page-loading").classList.add("js-hidden"),e.classList.remove("js-hidden")}()});
+window.addEventListener("load",function(){!function(){var e=document.getElementById("page");document.getElementById("page-loading").classList.add("js-hidden"),e.classList.remove("js-hidden")}()});
