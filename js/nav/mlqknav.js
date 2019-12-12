@@ -1,0 +1,1 @@
+$(".fhNav").hover(function(){},function(){}),$(".nav li").hover(function(){}),$(".nav li").on("click",function(){$(".nav li").removeClass("selectedNav"),$(this).addClass("selectedNav")});

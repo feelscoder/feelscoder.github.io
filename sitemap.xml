@@ -2,23 +2,849 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://maliquankai.com/2019/08/19/2019-08-19-developer-techno/</loc>
+    <loc>http://maliquankai.com/about/index.html</loc>
     
-    <lastmod>2019-12-09T07:34:35.012Z</lastmod>
+    <lastmod>2019-12-12T09:31:13.563Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/production/index.html</loc>
+    
+    <lastmod>2019-12-12T09:31:01.296Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2017/12/20/2017-12-20-course-problem/</loc>
+    
+    <lastmod>2019-12-12T09:23:46.831Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2017/11/02/2017-11-02-coder/</loc>
+    
+    <lastmod>2019-12-12T09:23:13.425Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2017/11/01/2017-11-01-course/</loc>
+    
+    <lastmod>2019-12-12T09:23:03.309Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2017/12/25/2017-12-25-time/</loc>
+    
+    <lastmod>2019-12-12T09:13:13.780Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2017/12/26/2017-12-26-pwd/</loc>
+    
+    <lastmod>2019-12-12T09:08:32.352Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2017/12/26/2017-12-26-xindong/</loc>
+    
+    <lastmod>2019-12-12T09:06:20.883Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2017/12/27/2017-12-27-birthday-date/</loc>
+    
+    <lastmod>2019-12-12T09:05:47.215Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2017/12/27/2017-12-27-task/</loc>
+    
+    <lastmod>2019-12-12T08:55:38.565Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2017/12/28/2017-12-28-singular/</loc>
+    
+    <lastmod>2019-12-12T08:53:40.651Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/01/07/2018-01-07-year-sum/</loc>
+    
+    <lastmod>2019-12-12T08:49:34.779Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/01/15/2018-01-15-learn-design/</loc>
+    
+    <lastmod>2019-12-12T08:42:44.474Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/01/18/2018-01-18-those-programmers-teaching-courses-will-not-teach-you-N-skills/</loc>
+    
+    <lastmod>2019-12-12T08:37:59.754Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/01/25/2018-01-25-motorcycle/</loc>
+    
+    <lastmod>2019-12-12T08:33:00.338Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/02/07/2018-02-07-year-holiday/</loc>
+    
+    <lastmod>2019-12-12T08:10:24.764Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/02/28/2018-02-28-give-book/</loc>
+    
+    <lastmod>2019-12-12T08:05:36.212Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/03/06/2018-03-06-learnprogramm-designer/</loc>
+    
+    <lastmod>2019-12-12T08:03:10.448Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/04/05/2018-04-05-welfare/</loc>
+    
+    <lastmod>2019-12-12T08:00:45.526Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/05/24/2018-05-24-minihour-product/</loc>
+    
+    <lastmod>2019-12-12T07:52:11.368Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/05/30/2018-05-30-icontest-product/</loc>
+    
+    <lastmod>2019-12-12T07:45:47.730Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/07/04/2018-07-04-course/</loc>
+    
+    <lastmod>2019-12-12T07:39:45.254Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/07/10/2018-07-10-course-statement/</loc>
+    
+    <lastmod>2019-12-12T07:31:46.813Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/07/16/2018-07-16-minutes-course/</loc>
+    
+    <lastmod>2019-12-12T07:28:46.053Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/07/20/2018-07-20-maliquankai-app/</loc>
+    
+    <lastmod>2019-12-12T07:26:23.861Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/07/22/2018-07-22-course-last-day/</loc>
+    
+    <lastmod>2019-12-12T07:21:07.383Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/07/25/2018-07-25-course-status/</loc>
+    
+    <lastmod>2019-12-12T07:17:35.854Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/08/08/2018-08-08-oneyear-developer/</loc>
+    
+    <lastmod>2019-12-12T07:11:49.539Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/08/14/2018-08-14-app-design/</loc>
+    
+    <lastmod>2019-12-12T07:07:41.540Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/08/17/2018-08-17-programmer-improve/</loc>
+    
+    <lastmod>2019-12-12T07:03:11.348Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/08/23/2018-08-23-app-logo/</loc>
+    
+    <lastmod>2019-12-12T06:59:57.063Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/08/28/2018-08-28-wechat-code/</loc>
+    
+    <lastmod>2019-12-12T06:54:08.370Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/08/31/2018-08-31-app-icon/</loc>
+    
+    <lastmod>2019-12-12T06:49:20.856Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/09/03/2018-09-03-tech-font/</loc>
+    
+    <lastmod>2019-12-12T06:41:54.906Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/09/05/2018-09-05-match-color/</loc>
+    
+    <lastmod>2019-12-12T06:41:49.785Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/09/07/2018-09-07-developer-money/</loc>
+    
+    <lastmod>2019-12-12T05:42:15.783Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/09/10/2018-09-10-teacher-day/</loc>
+    
+    <lastmod>2019-12-12T05:35:38.081Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/09/12/2018-09-12-my-tool/</loc>
+    
+    <lastmod>2019-12-12T05:35:36.011Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/09/16/2018-09-14-tool-uiGradients/</loc>
+    
+    <lastmod>2019-12-12T05:12:14.140Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/09/18/2018-09-18-material-website/</loc>
+    
+    <lastmod>2019-12-12T05:08:18.333Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/09/20/2018-09-20-time-gif/</loc>
+    
+    <lastmod>2019-12-12T05:04:02.828Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/09/22/2018-09-21-maliquankai-gif/</loc>
+    
+    <lastmod>2019-12-12T05:01:58.043Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/09/24/2018-09-24-happy-moon-festival/</loc>
+    
+    <lastmod>2019-12-12T04:35:04.837Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/09/27/2018-09-27-programm-design/</loc>
+    
+    <lastmod>2019-12-12T04:32:04.762Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/09/28/2018-09-28-loading-gif/</loc>
+    
+    <lastmod>2019-12-12T04:27:43.761Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/09/30/2018-09-30-national%20day/</loc>
+    
+    <lastmod>2019-12-12T04:13:41.339Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/10/08/2018-10-08-wallpaper/</loc>
+    
+    <lastmod>2019-12-12T04:10:58.508Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/10/11/2018-10-11-emoticon/</loc>
+    
+    <lastmod>2019-12-12T04:06:37.806Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/10/13/2018-10-13-drawn/</loc>
+    
+    <lastmod>2019-12-12T04:03:00.071Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/10/16/2018-10-16-miniprogram/</loc>
+    
+    <lastmod>2019-12-12T03:57:52.155Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/10/18/2018-10-18-expression-emoticon/</loc>
+    
+    <lastmod>2019-12-12T03:52:15.407Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/10/20/2018-10-20-game-design/</loc>
+    
+    <lastmod>2019-12-12T03:45:51.523Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/10/27/2018-10-27-design-tool/</loc>
+    
+    <lastmod>2019-12-12T03:39:33.388Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/10/29/2018-10-29-lucky-phone/</loc>
+    
+    <lastmod>2019-12-11T16:19:36.703Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/10/31/2018-10-31-emoji-mali/</loc>
+    
+    <lastmod>2019-12-11T16:15:53.754Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/11/04/2018-11-04-emoji-finish/</loc>
+    
+    <lastmod>2019-12-11T16:06:26.916Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/11/12/2018-11-12-png-compression/</loc>
+    
+    <lastmod>2019-12-11T15:53:20.814Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/11/06/2018-11-07-developer-larry/</loc>
+    
+    <lastmod>2019-12-11T15:53:17.552Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/11/15/2018-11-15-record-video/</loc>
+    
+    <lastmod>2019-12-11T15:46:12.150Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/11/17/2018-11-17-vpn-google/</loc>
+    
+    <lastmod>2019-12-11T15:23:14.204Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/11/19/2018-11-19-icon-resource/</loc>
+    
+    <lastmod>2019-12-11T13:16:06.556Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/11/20/2018-11-20-emoticon-online/</loc>
+    
+    <lastmod>2019-12-11T13:11:47.940Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/11/23/2018-11-23-miniprogram-money/</loc>
+    
+    <lastmod>2019-12-11T13:04:49.323Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/11/25/2018-11-25-color-psd/</loc>
+    
+    <lastmod>2019-12-11T13:01:36.582Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/11/28/2018-11-28-hot-github/</loc>
+    
+    <lastmod>2019-12-11T12:56:45.368Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/11/30/2018-11-30-good-github/</loc>
+    
+    <lastmod>2019-12-11T12:51:10.170Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/12/02/2018-12-02-free-font/</loc>
+    
+    <lastmod>2019-12-11T12:47:03.331Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/12/04/2018-12-04-eight-github/</loc>
+    
+    <lastmod>2019-12-11T12:39:22.713Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/12/07/2018-12-07-image-size/</loc>
+    
+    <lastmod>2019-12-11T12:31:05.109Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/12/10/2018-12-10-powerful-tool/</loc>
+    
+    <lastmod>2019-12-11T12:24:59.236Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/12/13/2018-12-13-google-color/</loc>
+    
+    <lastmod>2019-12-11T12:21:10.118Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/12/16/2018-12-16-open-github/</loc>
+    
+    <lastmod>2019-12-11T12:14:49.984Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/12/18/2018-12-18-maliquankai-oneyear/</loc>
+    
+    <lastmod>2019-12-11T12:07:47.713Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/12/20/2018-12-20-christmas-hq/</loc>
+    
+    <lastmod>2019-12-11T12:01:18.228Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/12/22/2018-12-22-gitlab-build/</loc>
+    
+    <lastmod>2019-12-11T11:58:18.372Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/12/24/2018-12-24-self-employed/</loc>
+    
+    <lastmod>2019-12-11T11:46:09.578Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/12/27/2018-12-27-pixel-test/</loc>
+    
+    <lastmod>2019-12-11T11:40:17.858Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/12/29/2018-12-29-train-ticket/</loc>
+    
+    <lastmod>2019-12-11T11:37:48.400Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2018/12/31/2018-12-31-larry2018-year/</loc>
+    
+    <lastmod>2019-12-11T11:29:11.397Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/02/27/2019-02-27-3d-ui-tool/</loc>
+    
+    <lastmod>2019-12-11T11:25:58.865Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/01/05/2019-01-05-share-hardware/</loc>
+    
+    <lastmod>2019-12-11T11:09:40.354Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/02/25/2019-02-25-maliquankai-huigui/</loc>
+    
+    <lastmod>2019-12-11T11:07:47.376Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/03/01/2019-03-01-2019-plan/</loc>
+    
+    <lastmod>2019-12-11T10:46:43.456Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/03/04/2019-03-04-design-app/</loc>
+    
+    <lastmod>2019-12-11T10:43:50.156Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/03/06/2019-03-06-mac-plug/</loc>
+    
+    <lastmod>2019-12-11T10:40:00.832Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/03/11/2019-03-11-minihour-update/</loc>
+    
+    <lastmod>2019-12-11T10:36:27.248Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/03/13/2019-03-13-web-angularjs/</loc>
+    
+    <lastmod>2019-12-11T10:32:46.695Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/03/15/2019-03-15-design-icontest/</loc>
+    
+    <lastmod>2019-12-11T10:30:26.448Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/03/19/2019-03-19-putapp-beta/</loc>
+    
+    <lastmod>2019-12-11T10:26:50.998Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/03/21/2019-03-21-font-tool/</loc>
+    
+    <lastmod>2019-12-11T10:24:32.456Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/03/27/2019-03-27-photo-big/</loc>
+    
+    <lastmod>2019-12-11T10:21:46.814Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/03/29/2019-03-29-putapp-tf/</loc>
+    
+    <lastmod>2019-12-11T10:16:47.527Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/04/02/2019-04-02-putapp-appstore/</loc>
+    
+    <lastmod>2019-12-11T10:15:08.998Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/04/08/2019-04-08-keyboard-shortcuts/</loc>
+    
+    <lastmod>2019-12-11T10:09:25.763Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/04/11/2019-04-11-putapp-sales/</loc>
+    
+    <lastmod>2019-12-11T10:07:36.847Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/04/12/2019-04-12-putapp-outside-voice/</loc>
+    
+    <lastmod>2019-12-11T10:01:39.966Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/04/18/2019-04-18-image-copyright/</loc>
+    
+    <lastmod>2019-12-11T10:00:35.352Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/04/23/2019-04-23-developer-tools/</loc>
+    
+    <lastmod>2019-12-11T09:56:49.398Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/04/27/2019-04-27-design-game/</loc>
+    
+    <lastmod>2019-12-11T09:49:57.120Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/04/30/2019-04-30-github-tools/</loc>
+    
+    <lastmod>2019-12-11T09:44:39.809Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/05/05/2019-05-05-larry-product/</loc>
+    
+    <lastmod>2019-12-11T09:35:33.353Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/05/08/2019-05-08-my-new-tool/</loc>
+    
+    <lastmod>2019-12-11T09:27:23.731Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/05/10/2019-05-10-icon-collection/</loc>
+    
+    <lastmod>2019-12-11T09:06:57.808Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/05/15/2019-05-15-google-plug-in/</loc>
+    
+    <lastmod>2019-12-11T09:02:20.792Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/05/17/2019-05-17-small-program-design/</loc>
+    
+    <lastmod>2019-12-11T08:59:22.386Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/05/22/2019-05-22-ui-design-standard/</loc>
+    
+    <lastmod>2019-12-11T08:54:36.363Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/05/25/2019-05-25-resume-create/</loc>
+    
+    <lastmod>2019-12-11T08:50:44.604Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/05/28/2019-05-28-launchaco/</loc>
+    
+    <lastmod>2019-12-11T08:47:21.629Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/06/01/2019-06-01-color-match/</loc>
+    
+    <lastmod>2019-12-11T08:42:00.470Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/06/03/2019-06-04-icon-emotion/</loc>
+    
+    <lastmod>2019-12-11T08:37:43.416Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/06/07/2019-06-07-file-upload/</loc>
+    
+    <lastmod>2019-12-11T08:35:06.516Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/06/11/2019-06-11-app-illustration/</loc>
+    
+    <lastmod>2019-12-11T08:31:52.495Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/06/20/2019-06-20-create-icon-animation/</loc>
+    
+    <lastmod>2019-12-11T08:26:56.692Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://maliquankai.com/2019/06/15/2019-06-15-icon-animation/</loc>
     
-    <lastmod>2019-12-09T07:31:17.882Z</lastmod>
+    <lastmod>2019-12-11T08:26:53.240Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/06/22/2019-06-22-photopea/</loc>
+    
+    <lastmod>2019-12-11T08:06:58.576Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/06/25/2019-06-25-putapp-data/</loc>
+    
+    <lastmod>2019-12-11T08:03:35.860Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/06/28/2019-06-28-design-bg/</loc>
+    
+    <lastmod>2019-12-11T07:52:49.947Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/07/03/2019-07-03-face-emoji/</loc>
+    
+    <lastmod>2019-12-11T06:35:48.062Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://maliquankai.com/2019/07/09/2019-07-09-maliquankai-course/</loc>
     
-    <lastmod>2019-12-09T06:53:15.591Z</lastmod>
+    <lastmod>2019-12-11T06:35:31.478Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/07/13/2019-07-13-video-speed/</loc>
+    
+    <lastmod>2019-12-11T06:19:41.679Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://maliquankai.com/2019/08/19/2019-08-19-developer-techno/</loc>
+    
+    <lastmod>2019-12-09T07:34:35.012Z</lastmod>
     
   </url>
   
@@ -128,800 +954,9 @@
   </url>
   
   <url>
-    <loc>http://maliquankai.com/2019/03/04/2019-03-04-design-app/</loc>
-    
-    <lastmod>2019-10-29T08:12:45.296Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/07/03/2019-07-03-face-emoji/</loc>
-    
-    <lastmod>2019-10-29T08:11:45.261Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/about/index.html</loc>
-    
-    <lastmod>2019-10-27T05:43:58.487Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/03/06/%E8%AE%BE%E8%AE%A1%E5%B8%88%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%AD%A6%E4%B9%A0%E7%BC%96%E7%A8%8B%EF%BC%9F/</loc>
-    
-    <lastmod>2019-07-25T11:32:47.773Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/01/15/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%E8%AE%BE%E8%AE%A1%EF%BC%9F/</loc>
-    
-    <lastmod>2019-07-25T11:32:35.168Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2017/11/02/%E6%9C%89%E6%B8%A9%E5%BA%A6%E7%9A%84Coder/</loc>
-    
-    <lastmod>2019-07-25T11:32:19.156Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2017/11/01/App%E8%AF%BE%E7%A8%8B%E5%A4%A7%E7%BA%B2/</loc>
-    
-    <lastmod>2019-07-25T11:32:00.564Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/05/22/2019-05-22-ui-design-standard/</loc>
-    
-    <lastmod>2019-07-25T11:31:22.345Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/05/15/2019-05-15-google-plug-in/</loc>
-    
-    <lastmod>2019-07-25T11:31:15.089Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/05/08/2019-05-08-my-new-tool/</loc>
-    
-    <lastmod>2019-07-25T11:31:00.907Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/05/05/2019-05-05-larry-product/</loc>
-    
-    <lastmod>2019-07-25T11:30:48.589Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/03/06/2019-03-06-mac-plug/</loc>
-    
-    <lastmod>2019-07-25T11:30:19.804Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/02/27/2019-02-27-3d-ui-tool/</loc>
-    
-    <lastmod>2019-07-25T11:29:46.230Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/02/25/2019-02-25-maliquankai-huigui/</loc>
-    
-    <lastmod>2019-07-25T11:29:23.517Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/12/18/2018-12-18-maliquankai-oneyear/</loc>
-    
-    <lastmod>2019-07-25T11:29:07.783Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/12/13/2018-12-13-google-color/</loc>
-    
-    <lastmod>2019-07-25T11:28:54.927Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/12/07/2018-12-07-image-size/</loc>
-    
-    <lastmod>2019-07-25T11:28:47.380Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/12/02/2018-12-02-free-font/</loc>
-    
-    <lastmod>2019-07-25T11:28:24.385Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/11/25/2018-11-25-color-psd/</loc>
-    
-    <lastmod>2019-07-25T11:28:05.387Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/11/15/2018-11-15-record-video/</loc>
-    
-    <lastmod>2019-07-25T11:27:38.043Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/10/31/2018-10-31-emoji-mali/</loc>
-    
-    <lastmod>2019-07-25T11:25:50.452Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/11/04/2018-11-04-emoji-finish/</loc>
-    
-    <lastmod>2019-07-25T11:25:42.195Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/10/27/2018-10-27-design-tool/</loc>
-    
-    <lastmod>2019-07-25T11:25:00.361Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/10/20/2018-10-20-game-design/</loc>
-    
-    <lastmod>2019-07-25T11:24:47.850Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/10/18/2018-10-18-expression-emoticon/</loc>
-    
-    <lastmod>2019-07-25T11:24:37.787Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/10/13/2018-10-13-drawn/</loc>
-    
-    <lastmod>2019-07-25T11:24:23.317Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/09/28/2018-09-28-loading-gif/</loc>
-    
-    <lastmod>2019-07-25T11:24:02.350Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/09/22/2018-09-21-maliquankai-gif/</loc>
-    
-    <lastmod>2019-07-25T11:23:43.913Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/09/20/2018-09-20-time-gif/</loc>
-    
-    <lastmod>2019-07-25T11:23:39.339Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/09/18/2018-09-18-material-website/</loc>
-    
-    <lastmod>2019-07-25T11:23:32.634Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/09/16/2018-09-14-tool-uiGradients/</loc>
-    
-    <lastmod>2019-07-25T11:23:15.012Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/09/12/2018-09-12-my-tool/</loc>
-    
-    <lastmod>2019-07-25T11:22:57.862Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/09/05/2018-09-05-match-color/</loc>
-    
-    <lastmod>2019-07-25T11:22:36.663Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/09/03/2018-09-03-tech-font/</loc>
-    
-    <lastmod>2019-07-25T11:22:27.510Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/08/31/2018-08-31-app-icon/</loc>
-    
-    <lastmod>2019-07-25T11:22:23.687Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/08/23/2018-08-23-app-logo/</loc>
-    
-    <lastmod>2019-07-25T11:22:16.792Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/08/17/2018-08-17-programmer-improve/</loc>
-    
-    <lastmod>2019-07-25T11:22:04.891Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/08/14/2018-08-14-app-design/</loc>
-    
-    <lastmod>2019-07-25T11:21:52.338Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/05/17/2019-05-17-small-program-design/</loc>
-    
-    <lastmod>2019-07-25T10:27:06.826Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/04/23/2019-04-23-developer-tools/</loc>
-    
-    <lastmod>2019-07-25T10:14:54.872Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2017/12/28/%E9%AB%98%E9%80%BC%E6%A0%BC%E7%A8%8B%E5%BA%8F%E5%91%98%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0/</loc>
-    
-    <lastmod>2019-07-25T09:26:04.610Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/02/28/%E9%80%81%E4%B9%A6%E7%A6%8F%E5%88%A9%E4%B8%AD%E5%A5%96%E7%94%A8%E6%88%B7%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83/</loc>
-    
-    <lastmod>2019-07-25T09:25:58.260Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/04/05/%E8%AE%B8%E4%B9%85%E4%B8%8D%E8%A7%81%EF%BC%8C%E7%94%9A%E6%98%AF%E6%83%B3%E5%BF%B5%EF%BC%8C%E9%80%81%E7%A6%8F%E5%88%A9%E4%BA%86%EF%BC%81/</loc>
-    
-    <lastmod>2019-07-25T09:25:38.342Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2017/12/27/%E7%B2%BE%E7%BE%8E%E7%9A%84%E7%94%9F%E6%97%A5%20%C2%B7%20%E8%8A%82%E6%97%A5%20%C2%B7%20%E7%BA%AA%E5%BF%B5%E6%97%A5%E7%A4%BC%E7%89%A9%E6%8F%90%E9%86%92%E5%B7%A5%E5%85%B7/</loc>
-    
-    <lastmod>2019-07-25T09:25:34.754Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/02/07/%E4%B8%B4%E8%BF%91%E6%98%A5%E8%8A%82%EF%BC%8C%E6%9D%A5%E7%BB%99%E4%BD%A0%E4%BB%AC%E5%8F%91%E5%B9%B4%E7%BB%88%E5%A5%96%E4%BA%86%EF%BC%81/</loc>
-    
-    <lastmod>2019-07-25T09:25:00.668Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2017/12/27/%E4%B8%93%E6%B3%A8%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86%E5%92%8C%E5%BE%85%E5%8A%9E%E8%AE%A1%E5%88%92%E6%8F%90%E9%86%92/</loc>
-    
-    <lastmod>2019-07-25T09:24:18.933Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/01/07/%E4%B8%8D%E4%BC%9A%E5%81%9C%E6%AD%A2%E7%9A%84%E7%83%AD%E7%88%B1%EF%BC%8C%E7%95%99%E4%B8%8B%E7%9A%84%E5%85%A8%E6%98%AF%E6%9C%AA%E6%9D%A5%E3%80%8C%E6%88%91%E7%9A%84%202017%E3%80%8D/</loc>
-    
-    <lastmod>2019-07-25T09:24:10.972Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/01/18/2018-01-18-those-programmers-teaching-courses-will-not-teach-you-N-skills/</loc>
-    
-    <lastmod>2019-07-25T09:14:30.641Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/05/24/2018-05-24-minihour-product/</loc>
-    
-    <lastmod>2019-07-25T09:14:15.393Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/05/30/2018-05-30-icontest-product/</loc>
-    
-    <lastmod>2019-07-25T09:14:11.640Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/07/04/2018-07-04-course/</loc>
-    
-    <lastmod>2019-07-25T09:14:05.728Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/07/10/2018-07-10-course-statement/</loc>
-    
-    <lastmod>2019-07-25T09:14:02.456Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/07/16/2018-07-16-minutes-course/</loc>
-    
-    <lastmod>2019-07-25T09:13:56.382Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/07/20/2018-07-20-maliquankai-app/</loc>
-    
-    <lastmod>2019-07-25T09:13:44.956Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/07/22/2018-07-22-course-last-day/</loc>
-    
-    <lastmod>2019-07-25T09:13:29.976Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/07/25/2018-07-25-course-status/</loc>
-    
-    <lastmod>2019-07-25T09:13:20.040Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/08/08/2018-08-08-oneyear-developer/</loc>
-    
-    <lastmod>2019-07-25T09:13:08.629Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/08/28/2018-08-28-wechat-code/</loc>
-    
-    <lastmod>2019-07-25T09:12:42.821Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/09/07/2018-09-07-developer-money/</loc>
-    
-    <lastmod>2019-07-25T09:11:56.606Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/09/10/2018-09-10-teacher-day/</loc>
-    
-    <lastmod>2019-07-25T09:11:45.719Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/09/24/2018-09-24-happy-moon-festival/</loc>
-    
-    <lastmod>2019-07-25T09:10:20.098Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/09/27/2018-09-27-programm-design/</loc>
-    
-    <lastmod>2019-07-25T09:10:14.612Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/09/30/2018-09-30-national%20day/</loc>
-    
-    <lastmod>2019-07-25T09:09:56.299Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/10/08/2018-10-08-wallpaper/</loc>
-    
-    <lastmod>2019-07-25T09:09:51.292Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/10/11/2018-10-11-emoticon/</loc>
-    
-    <lastmod>2019-07-25T09:09:45.597Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/10/16/2018-10-16-miniprogram/</loc>
-    
-    <lastmod>2019-07-25T09:09:03.770Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/10/29/2018-10-29-lucky-phone/</loc>
-    
-    <lastmod>2019-07-25T09:08:18.719Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/11/06/2018-11-07-developer-larry/</loc>
-    
-    <lastmod>2019-07-25T09:07:37.006Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/11/12/2018-11-12-png-compression/</loc>
-    
-    <lastmod>2019-07-25T09:07:13.972Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/11/17/2018-11-17-vpn-google/</loc>
-    
-    <lastmod>2019-07-25T09:06:18.496Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/11/19/2018-11-19-icon-resource/</loc>
-    
-    <lastmod>2019-07-25T09:05:32.140Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/11/20/2018-11-20-emoticon-online/</loc>
-    
-    <lastmod>2019-07-25T09:05:00.438Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/11/23/2018-11-23-miniprogram-money/</loc>
-    
-    <lastmod>2019-07-25T09:04:21.694Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/11/28/2018-11-28-hot-github/</loc>
-    
-    <lastmod>2019-07-25T09:03:39.629Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/11/30/2018-11-30-good-github/</loc>
-    
-    <lastmod>2019-07-25T09:03:32.771Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/12/04/2018-12-04-eight-github/</loc>
-    
-    <lastmod>2019-07-25T09:02:58.879Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/12/10/2018-12-10-powerful-tool/</loc>
-    
-    <lastmod>2019-07-25T09:01:53.281Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/12/16/2018-12-16-open-github/</loc>
-    
-    <lastmod>2019-07-25T08:41:19.773Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/12/20/2018-12-20-christmas-hq/</loc>
-    
-    <lastmod>2019-07-25T08:38:45.818Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/12/22/2018-12-22-gitlab-build/</loc>
-    
-    <lastmod>2019-07-25T08:38:09.792Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/12/24/2018-12-24-self-employed/</loc>
-    
-    <lastmod>2019-07-25T08:38:00.285Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/12/27/2018-12-27-pixel-test/</loc>
-    
-    <lastmod>2019-07-25T08:37:41.137Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/12/29/2018-12-29-train-ticket/</loc>
-    
-    <lastmod>2019-07-25T08:37:30.762Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/12/31/2018-12-31-larry2018-year/</loc>
-    
-    <lastmod>2019-07-25T08:37:18.519Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/01/05/2019-01-05-share-hardware/</loc>
-    
-    <lastmod>2019-07-25T08:37:11.766Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/03/01/2019-03-01-2019-plan/</loc>
-    
-    <lastmod>2019-07-25T08:36:08.715Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/03/11/2019-03-11-minihour-update/</loc>
-    
-    <lastmod>2019-07-25T08:35:22.224Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/03/13/2019-03-13-web-angularjs/</loc>
-    
-    <lastmod>2019-07-25T08:35:07.551Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/03/15/2019-03-15-design-icontest/</loc>
-    
-    <lastmod>2019-07-25T08:34:59.123Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/03/19/2019-03-19-putapp-beta/</loc>
-    
-    <lastmod>2019-07-25T08:34:53.731Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/03/21/2019-03-21-font-tool/</loc>
-    
-    <lastmod>2019-07-25T08:34:43.258Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/03/27/2019-03-27-photo-big/</loc>
-    
-    <lastmod>2019-07-25T08:34:35.401Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/03/29/2019-03-29-putapp-tf/</loc>
-    
-    <lastmod>2019-07-25T08:34:23.425Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/04/02/2019-04-02-putapp-appstore/</loc>
-    
-    <lastmod>2019-07-25T08:34:19.574Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/04/08/2019-04-08-keyboard-shortcuts/</loc>
-    
-    <lastmod>2019-07-25T08:34:08.080Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/04/11/2019-04-11-putapp-sales/</loc>
-    
-    <lastmod>2019-07-25T08:33:43.646Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/04/12/2019-04-12-putapp-outside-voice/</loc>
-    
-    <lastmod>2019-07-25T08:33:35.346Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/04/18/2019-04-18-image-copyright/</loc>
-    
-    <lastmod>2019-07-25T08:30:12.341Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/04/27/2019-04-27-design-game/</loc>
-    
-    <lastmod>2019-07-25T08:29:23.210Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/04/30/2019-04-30-github-tools/</loc>
-    
-    <lastmod>2019-07-25T08:29:11.436Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/05/10/2019-05-10-icon-collection/</loc>
-    
-    <lastmod>2019-07-25T08:27:43.535Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/05/25/2019-05-25-resume-create/</loc>
-    
-    <lastmod>2019-07-25T08:25:10.561Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/05/28/2019-05-28-launchaco/</loc>
-    
-    <lastmod>2019-07-25T08:24:56.918Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/06/01/2019-06-01-color-match/</loc>
-    
-    <lastmod>2019-07-25T08:24:22.387Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/06/03/2019-06-04-icon-emotion/</loc>
-    
-    <lastmod>2019-07-25T08:24:13.352Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/06/07/2019-06-07-file-upload/</loc>
-    
-    <lastmod>2019-07-25T08:23:51.805Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/06/11/2019-06-11-app-illustration/</loc>
-    
-    <lastmod>2019-07-25T08:23:16.976Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/06/20/2019-06-20-create-icon-animation/</loc>
-    
-    <lastmod>2019-07-25T08:22:52.810Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/06/22/2019-06-22-photopea/</loc>
-    
-    <lastmod>2019-07-25T08:22:36.290Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/06/25/2019-06-25-putapp-data/</loc>
-    
-    <lastmod>2019-07-25T08:21:24.435Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/06/28/2019-06-28-design-bg/</loc>
-    
-    <lastmod>2019-07-25T08:20:27.649Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2019/07/13/2019-07-13-video-speed/</loc>
-    
-    <lastmod>2019-07-25T08:18:29.529Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://maliquankai.com/course/index.html</loc>
     
     <lastmod>2019-07-09T15:06:29.675Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/production/index.html</loc>
-    
-    <lastmod>2019-05-08T11:53:51.659Z</lastmod>
     
   </url>
   
@@ -940,44 +975,9 @@
   </url>
   
   <url>
-    <loc>http://maliquankai.com/2017/12/25/%E6%8B%BE%E8%B5%B7%E4%BD%A0%E8%B5%B0%E8%BF%87%E7%9A%84%E6%97%B6%E5%85%89/</loc>
-    
-    <lastmod>2018-10-11T09:48:16.726Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2017/12/26/%E5%AE%89%E5%85%A8%E7%AE%80%E6%B4%81%E7%9A%84%E8%B4%A6%E5%8F%B7%E7%AE%A1%E5%AE%B6/</loc>
-    
-    <lastmod>2018-10-11T09:48:01.122Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2017/12/26/%E5%8F%91%E7%8E%B0%E4%BB%A4%E6%82%A8%E5%BF%83%E5%8A%A8%E7%9A%84%E5%A5%BD%E7%89%A9/</loc>
-    
-    <lastmod>2018-10-11T09:45:27.139Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2018/01/25/%E6%91%A9%E6%89%98%E8%BD%A6%E4%B8%8A%E7%9A%84%E5%9B%BD%E5%BA%A6%20-%20%E8%B6%8A%E5%8D%97%E8%8A%BD%E5%BA%84/</loc>
-    
-    <lastmod>2018-02-28T14:55:04.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://maliquankai.com/search/index.html</loc>
     
     <lastmod>2018-01-10T11:36:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://maliquankai.com/2017/12/20/%E5%85%B3%E4%BA%8E%E8%AF%BE%E7%A8%8B%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/</loc>
-    
-    <lastmod>2018-01-03T06:41:47.000Z</lastmod>
     
   </url>
   
