@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maliquankai.com/"/>
-  <updated>2019-12-05T03:49:13.118Z</updated>
+  <updated>2019-12-13T11:27:55.173Z</updated>
   <id>http://maliquankai.com/</id>
   
   <author>
@@ -15,6 +15,62 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>让你的网站酷起来3-Naker.Form</title>
+    <link href="http://maliquankai.com/2019/12/13/2019-12-13-naker-form/"/>
+    <id>http://maliquankai.com/2019/12/13/2019-12-13-naker-form/</id>
+    <published>2019-12-13T09:23:01.000Z</published>
+    <updated>2019-12-13T11:27:55.173Z</updated>
+    
+    <content type="html"><![CDATA[<p>大家好，我是独立开发者Larry～今天继续给大家介绍来自巴黎的技术社区<strong>Naker推出的神器：Naker.Form-交互式表单动画编辑器</strong>。</p><p>它和前面推荐的Naker.Back-交互式背景生成器以及Naker.Story-3D交互式内容编辑器一样，都是简单易用的网络工具，<strong>无需代码，轻松将我们的网站转变为交互式体验，让我们的网站酷起来～</strong></p><h3 id="Naker-Form"><a href="#Naker-Form" class="headerlink" title="Naker.Form"></a>Naker.Form</h3><p>网站地址：<a href="https://naker.io/interactive-forms.html" target="_blank" rel="noopener">https://naker.io/interactive-forms.html</a></p><video controls preload="none" poster="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/poster_form.jpg" width="810" height="450"><br><source src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/Naker.Form.mp4"><br></video><p><strong>表单在我们的网站中是最常见的用户注册及数据获取方式</strong>，但是填写表单可能会很无聊，而如何将这件无聊的事转化为一件有趣的事来提高表单的转化率？<strong>通过Naker.Form的宣传视频，我们就可以感受到Naker.Form的魔力。</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/29.gif" alt=""></p><p>Naker.Form是一个简单易用的工具，可以将交互动画添加到任何现有表单中，使其变得强大！我们填写表单的内容越多，在最终验证显示出来之前，图像动画就会构建的越多，<strong>通过这种游戏化的表格填写体验，来吸引用户填写表单内容、提高表单的转化率。</strong></p><p><strong>Naker.Form并不管理表单本身，而是管理与其链接的交互动画场景</strong>。接下来我们一起在Naker.Form编辑器中体验：</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/30.jpg" alt=""></p><p>首次打开Naker.Form编辑器，来自Naker的Jennifer会引导大家来了解<strong>Naker.Form编辑器以及相关界面和操作，简单无难度。</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/31.jpg" alt=""></p><p>在开始创建交互式场景前，无论你是否已经有了自己的表单，Naker.Form编辑器均会提供一个<strong>“伪造的表单”来模拟设计的呈现，将重点放回交互动画场景。</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/32.png" alt=""></p><p>当然，如果你没有自己的表单，并且喜欢Naker提供的表单设计，<strong>你也可以通过表单上的链接跳转到Github找到该表单资源。</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/33.jpg" alt=""></p><p>继续回到Naker.Form编辑器页面，上面导航栏从左到右分别是<strong>Naker账户登录/注册入口，Naker工具名称、保存项目及导出项目按钮</strong>。下面左侧是交互场景效果实时预览窗口，右侧是操作窗口可以对<strong>场景环境、图片、填写表单融合动画、确认表单爆炸动画等相关参数进行设置或调整。</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/34.gif" alt=""></p><p>在进行自定义交互场景前，Naker.Form还提供了<strong>「Randomize」随机化和「Template」模板按钮快速获得多种可能。</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/35.gif" alt=""></p><p>环境「Environment」设置<strong>背景颜色渐变梯度-垂直/水平/径向渐变、背景开始/结束颜色及透明度、景深等参数。</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/36.gif" alt=""></p><p>图片「Image」是我们交互场景动画中想要显示的图像，比如<strong>LOGO、ICON、文字等其他任何内容，只需要点击图片缩略图「Replace Image」替换上传即可。</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/37.gif" alt=""></p><p>上传完成的图片还需要我们为其定义一个形状，并设定数量和大小。其中形状有：<strong>立方体、球、四面体、八面体、十二面体、二十面体、三棱镜、五角棱镜、六角棱镜、方形金字塔和五角锥等多种3D形状。</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/38.gif" alt=""></p><p>填写表单融合动画「Fusion / Fill in Form」就是字面意思，在填写表单时的交互场景动画设定，在预设值「Preset」中提供了<strong>Merge、RubiksCube、Grow、Squeeze和Elevator 5种默认动画效果</strong>，从中进行选择可以快速获取灵感。此外还可以通过<strong>位置、旋转、比例几个选项进行参数调整。</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/39.gif" alt=""></p><p>确认表单爆炸动画「Explosion / Validate Form」就在填写完表单内容，点击「提交」按钮确认表单时的动画。与上面的填写表单融合动画类似，同样在预设值「Preset」中提供了<strong>Explosion、Waterfall、Floating和Wind4种默认动画效果</strong>，从中进行选择可以快速获取灵感。此外还可以通过重力、功率几个选项进行参数调整。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/40.png" alt=""></p><p>构建完成自己的交互式场景之后，<strong>我们可以将项目保存或导出并与我们网站上的表单进行链接</strong>。保存或导出项目首先需要我们登录Naker账户，登录之后点击导出「Export」按钮即可得到我们的项目代码，点击<strong>复制将这些代码粘贴到我们的网站源码中，它将自动检测页面上存在的表单</strong>。</p><p><strong>Naker.Form场景可以嵌入到网站上的任何位置</strong>，无论你的网站是使用Tilda、Webflow、Unbounce、Wordpress…具体操作可以参看导出弹窗上的「article」链接文章，这里就不过多说明了。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p><strong>关于Naker提供的增强页面交互工具：Naker.Back、Naker.Story和Naker.Form，今天就已全部推荐给了大家</strong>，希望能对你有所帮助～</p><p>今天的内容就是这些，访问码力全开大学堂（<a href="www.maliquankai.cn">www.maliquankai.cn</a>）领取好礼，如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;大家好，我是独立开发者Larry～今天继续给大家介绍来自巴黎的技术社区&lt;strong&gt;Naker推出的神器：Naker.Form-交互式表单动画编辑器&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;它和前面推荐的Naker.Back-交互式背景生成器以及Naker.Story-3D交互
+      
+    
+    </summary>
+    
+      <category term="工具资源" scheme="http://maliquankai.com/categories/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
+    
+      <category term="3D交互" scheme="http://maliquankai.com/tags/3D%E4%BA%A4%E4%BA%92/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Larry | 2019，我有些话想跟你分享</title>
+    <link href="http://maliquankai.com/2019/12/06/2019-12-06-year-2019/"/>
+    <id>http://maliquankai.com/2019/12/06/2019-12-06-year-2019/</id>
+    <published>2019-12-06T09:23:01.000Z</published>
+    <updated>2019-12-13T11:28:09.511Z</updated>
+    
+    <content type="html"><![CDATA[<p>​大家好，我是独立开发者Larry～2019年只剩不到一个月了，<strong>我就想问问你年初立的那些flag都实现了嘛？</strong></p><p><strong>每次到了年末这样的时间节点，往往就很容易心生感慨</strong>，这一年下来，我们都经历了什么，得到了什么，失去了什么，心里有不少想说的话。</p><p>关于我自己，状态相比去年差了一些，<strong>这一年，我经历了几次不足为外人道的至暗时刻</strong>，说实话头发掉了不少，每次想到生活如此艰难，就更应该努力生活了，因为这就是生活的全部。</p><p>在开始分享之前，我去看了2019年初立下的Flag。</p><p><strong>① 上线web端码力全开大学堂</strong><br><strong>② 开发一款新的App</strong></p><p>嗯，两个都实现了，<strong>3月下旬新开发的产品PutApp正式上线</strong>，目前为止迭代了18次，<strong>私密分享的应用累计5万多，公开分享的应用累计1万多</strong>，为此专门优化了服务器配置，产品体验更流畅。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/Larry%20%7C%202019%EF%BC%8C%E6%88%91%E6%9C%89%E4%BA%9B%E8%AF%9D%E6%83%B3%E8%B7%9F%E4%BD%A0%E5%88%86%E4%BA%AB/%E6%95%B0%E6%8D%AE.png" alt=""></p><p><strong>码力全开大学堂7月中旬正式上线开始内测</strong>，一直不断的在优化改进，<strong>目前服务号和邮件支持课程提醒功能</strong>，从此学习课程，快人一步，现在很大一部分的精力都放在了录制剪辑视频上，希望年前可以完成大部分课程的录制。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/Larry%20%7C%202019%EF%BC%8C%E6%88%91%E6%9C%89%E4%BA%9B%E8%AF%9D%E6%83%B3%E8%B7%9F%E4%BD%A0%E5%88%86%E4%BA%AB/%E5%A4%A7%E5%AD%A6%E5%A0%82%E5%AE%98%E7%BD%91.jpg" alt=""></p><p><strong>2019年还输出了接近60篇原创文章，自己的10款App迭代了70多次</strong>，多次改进优化了码力全开工作室的官网，前两天使用了<strong>lozad懒加载</strong>，加载速度有很大提升喔，同时换了新的评论系统，<strong>无需登录即可发布评论，欢迎大家多来留言交流~</strong></p><p>有一件高兴的事就是买了一辆奔驰轿跑（本来是冲着奔驰E级去的，不小心被轿跑的外形吸引），<strong>在此之前对比了BBA车型，试驾了混动版宝马5系、奥迪A5顶配、奔驰C260  coupe</strong>，试驾完的总体感受，5系宝马的操控最优，A5顶配的动力是真的强，推背感十足，但是实在看不上奥迪和宝马的内饰，特别是奥迪A5中间那块小屏幕，最终选择了奔驰。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/Larry%20%7C%202019%EF%BC%8C%E6%88%91%E6%9C%89%E4%BA%9B%E8%AF%9D%E6%83%B3%E8%B7%9F%E4%BD%A0%E5%88%86%E4%BA%AB/car2.jpg" alt=""></p><p>买车之前预算在50万以内，个人对外形和内饰又有点要求，这款车<strong>它尾部的线条、无框车门、满天星中网、64色氛围灯都比较喜欢，嗯，最重要的是老婆喜欢</strong>，所以性价比和其它的就无所谓了，车子落地41w多，送了地毯、贴膜、行车记录仪、镀晶、底盘装甲、保养劵。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/Larry%20%7C%202019%EF%BC%8C%E6%88%91%E6%9C%89%E4%BA%9B%E8%AF%9D%E6%83%B3%E8%B7%9F%E4%BD%A0%E5%88%86%E4%BA%AB/car3.jpg" alt=""></p><p><strong>2019年1月份我和老婆结婚了</strong>，这一年很忙，也很累，但有她的陪伴很温暖，为了做好一件事情，循序渐进，一步一个脚印的往前走，<strong>希望今后的独立开发者创业路一帆风顺、越来越好。</strong></p><p>文中实景配图使用佳能相机拍摄，欢迎围观！</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/Larry%20%7C%202019%EF%BC%8C%E6%88%91%E6%9C%89%E4%BA%9B%E8%AF%9D%E6%83%B3%E8%B7%9F%E4%BD%A0%E5%88%86%E4%BA%AB/car4.jpg" alt=""></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/Larry%20%7C%202019%EF%BC%8C%E6%88%91%E6%9C%89%E4%BA%9B%E8%AF%9D%E6%83%B3%E8%B7%9F%E4%BD%A0%E5%88%86%E4%BA%AB/car1.jpg" alt=""></p><p>手机端有个Mercedes Me客户端，它可以实时监控和管理车辆信息！</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/Larry%20%7C%202019%EF%BC%8C%E6%88%91%E6%9C%89%E4%BA%9B%E8%AF%9D%E6%83%B3%E8%B7%9F%E4%BD%A0%E5%88%86%E4%BA%AB/car.jpg" alt=""></p><p>猫片收尾（喵小开）</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/Larry%20%7C%202019%EF%BC%8C%E6%88%91%E6%9C%89%E4%BA%9B%E8%AF%9D%E6%83%B3%E8%B7%9F%E4%BD%A0%E5%88%86%E4%BA%AB/miao.jpg" alt=""></p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>最后，2020年希望大家越来越好，衷心感谢每位用户、读者的陪伴和支持，也谢谢那些直言不讳的批评。</p><p>今天的内容就是这些，访问码力全开大学堂（<a href="www.maliquankai.cn">www.maliquankai.cn</a>）领取好礼，如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;​大家好，我是独立开发者Larry～2019年只剩不到一个月了，&lt;strong&gt;我就想问问你年初立的那些flag都实现了嘛？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;每次到了年末这样的时间节点，往往就很容易心生感慨&lt;/strong&gt;，这一年下来，我们都经历了什么，得
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://maliquankai.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="有故事的开发者" scheme="http://maliquankai.com/tags/%E6%9C%89%E6%95%85%E4%BA%8B%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85/"/>
+    
+      <category term="随笔" scheme="http://maliquankai.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>让你的网站酷起来2-Naker.Story</title>
@@ -471,9 +527,9 @@
       <category term="个人作品" scheme="http://maliquankai.com/categories/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
     
     
-      <category term="码力全开" scheme="http://maliquankai.com/tags/%E7%A0%81%E5%8A%9B%E5%85%A8%E5%BC%80/"/>
-    
       <category term="个人作品" scheme="http://maliquankai.com/tags/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+      <category term="码力全开" scheme="http://maliquankai.com/tags/%E7%A0%81%E5%8A%9B%E5%85%A8%E5%BC%80/"/>
     
   </entry>
   
@@ -501,58 +557,6 @@
       <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
     
       <category term="插画素材" scheme="http://maliquankai.com/tags/%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>选一个好的背景让你的设计更出彩！</title>
-    <link href="http://maliquankai.com/2019/06/28/2019-06-28-design-bg/"/>
-    <id>http://maliquankai.com/2019/06/28/2019-06-28-design-bg/</id>
-    <published>2019-06-28T09:36:01.000Z</published>
-    <updated>2019-12-11T07:52:49.947Z</updated>
-    
-    <content type="html"><![CDATA[<p>大家好，我是独立开发者Larry～说到设计大家关注较多的往往是<strong>设计主体</strong>，其实背景也同样重要，<strong>不同的背景可以营造出不同的设计氛围、传达出不同的信息</strong>，而一个好的背景不仅能<strong>突出主体视觉效果、补充主体功能、平衡整体设计</strong>，还能提高内容的可读性、提升产品调性等等。</p><p>所以今天特地整理了<strong>国外一些比较棒的免费背景素材</strong>分享给大家，一起来看看吧~</p><h3 id="The-Pattern-Library"><a href="#The-Pattern-Library" class="headerlink" title="The Pattern Library"></a>The Pattern Library</h3><p>网站地址：<a href="http://thepatternlibrary.com/" target="_blank" rel="noopener">http://thepatternlibrary.com/</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E9%80%89%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E8%83%8C%E6%99%AF%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%9B%B4%E5%87%BA%E5%BD%A9%EF%BC%81/1.gif" alt=""></p><p><strong>The Pattern Library</strong>是由美国开发者TIM HOLMAN和前微软创意总监CLAUDIO GUGLIERI联手打造的<strong>一个免费分享背景素材的网站</strong>，打开网站，首页随机全屏显示一个背景素材，<strong>上下滑动</strong>页面或<strong>点击随机</strong>按钮即可切换预览网站提供的背景素材，<strong>点击左上下载按钮获取背景素材文件</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E9%80%89%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E8%83%8C%E6%99%AF%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%9B%B4%E5%87%BA%E5%BD%A9%EF%BC%81/2.gif" alt=""></p><p>目前网站提供的背景素材数量并不是很多有<strong>50+</strong>，但是<strong>素材的类型非常丰富</strong>，包含<strong>几何图形、文字背景、手绘涂鸦、扁平图形、3D图像、材质纹理等多种风格</strong>。当然，项目正在进行中作者一直在更新素材，同时<strong>支持用户发送自己的素材到作者邮箱，作者通过后也会更新到网站</strong>。此外，所有素材都有提供名称及作者，通过素材你还可以查看更多设计师作品及信息。</p><h3 id="Cool-Backgrounds"><a href="#Cool-Backgrounds" class="headerlink" title="Cool Backgrounds"></a>Cool Backgrounds</h3><p>网站地址：<a href="https://coolbackgrounds.io" target="_blank" rel="noopener">https://coolbackgrounds.io</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E9%80%89%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E8%83%8C%E6%99%AF%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%9B%B4%E5%87%BA%E5%BD%A9%EF%BC%81/3.gif" alt=""></p><p>Cool Backgrounds是由旧金山产品设计师Moe Amaya创建的一个包含<strong>低多边形、粒子、渐变、梯度地形及Unsplash图像的免费背景素材网站</strong>，除默认多色效果外网站还提供了<strong>黑、白、蓝、红四种单色效果</strong>，根据网站的色彩可以快速调整背景素材的色彩。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E9%80%89%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E8%83%8C%E6%99%AF%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%9B%B4%E5%87%BA%E5%BD%A9%EF%BC%81/4.gif" alt=""></p><p>Cool Backgrounds的<strong>低多边形背景效果</strong>技术支持来源于美国的工程师/设计师Quinn Rohlf开发的低多边形背景、纹理和矢量工具Trianglify.io，通过Trianglify.io可以<strong>快速调整背景尺寸、图形方差、多边形大小、配色方案</strong>等，调整好的背景支持<strong>复制链接、下载PNG和SVG格式</strong>。Trianglify.io低多边形生成器工具地址：<a href="https://trianglify.io/" target="_blank" rel="noopener">https://trianglify.io/</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E9%80%89%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E8%83%8C%E6%99%AF%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%9B%B4%E5%87%BA%E5%BD%A9%EF%BC%81/5.png" alt=""></p><p>Cool Backgrounds的粒子背景效果技术支持来源于德国的设计师/全栈开发者Marc Brüderlin创建的<strong>一个用于粒子背景的轻量级、无依赖性和响应式开源javascript插件particles.js</strong>，详细的安装及使用方法通过particles.js网站或GitHub都可以查看。<strong>particles.js网站地址</strong>：<a href="https://marcbruederlin.github.io/particles.js/" target="_blank" rel="noopener">https://marcbruederlin.github.io/particles.js/</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E9%80%89%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E8%83%8C%E6%99%AF%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%9B%B4%E5%87%BA%E5%BD%A9%EF%BC%81/6.png" alt=""></p><p>Cool Backgrounds的<strong>渐变背景</strong>效果技术支持来源于CSS Gradient，同样由Moe Amaya设计开发的<strong>CSS渐变生成器</strong>，可以<strong>快速生成线性和径向渐变及CSS渐变文本</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E9%80%89%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E8%83%8C%E6%99%AF%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%9B%B4%E5%87%BA%E5%BD%A9%EF%BC%81/7.gif" alt=""></p><p>CSS Gradient提供了大量<strong>渐变色板图库</strong>供你寻找灵感，包括<strong>uiGradients、Grabient、Gradient Hunt、Mesh Gradients、WebGradients、CoolHue、GradientButtons、EggGradients、Colorful</strong>。</p><h3 id="Hero-Patterns"><a href="#Hero-Patterns" class="headerlink" title="Hero Patterns"></a>Hero Patterns</h3><p>网站地址：<a href="https://www.heropatterns.com/" target="_blank" rel="noopener">https://www.heropatterns.com/</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E9%80%89%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E8%83%8C%E6%99%AF%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%9B%B4%E5%87%BA%E5%BD%A9%EF%BC%81/8.gif" alt=""></p><p><strong>Hero Patterns</strong>是由加拿大UI设计师和插画师Steve Schoger创建的<strong>一个免费在线SVG背景素材库</strong>，支持更改前景色、背景色及前景不透明度，下载没有样式的SVG或生成CSS代码。</p><h3 id="Novapattern"><a href="#Novapattern" class="headerlink" title="Novapattern"></a>Novapattern</h3><p>网站地址：<a href="https://www.novapattern.com/" target="_blank" rel="noopener">https://www.novapattern.com/</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E9%80%89%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E8%83%8C%E6%99%AF%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%9B%B4%E5%87%BA%E5%BD%A9%EF%BC%81/9.gif" alt=""></p><p><strong>Novapattern是一个提供精心设计图案背景素材的网站</strong>，其中有免费可用于商业用途的背景素材和支持付费购买和下载的背景素材，下载格式包含<strong>可重复无缝背景图案PSD文件及大尺寸PNG背景图片</strong>。</p><h3 id="Vecteezy"><a href="#Vecteezy" class="headerlink" title="Vecteezy"></a>Vecteezy</h3><p>网站地址：<a href="https://www.vecteezy.com/" target="_blank" rel="noopener">https://www.vecteezy.com/</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E9%80%89%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E8%83%8C%E6%99%AF%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%9B%B4%E5%87%BA%E5%BD%A9%EF%BC%81/10.png" alt=""></p><p>Vecteezy是<strong>一个提供世界各地艺术家创建的矢量图形素材库</strong>，网站每天都会添加新的矢量文件到网站供你获取灵感，同时网站大多数文件可以<strong>免费下载</strong>，并且根据许可证，可以在项目中<strong>免费使用</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E9%80%89%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E8%83%8C%E6%99%AF%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%9B%B4%E5%87%BA%E5%BD%A9%EF%BC%81/11.gif" alt=""></p><p>浏览网站素材可以选择<strong>浏览最新或者按类别浏览</strong>，其中<strong>类别分类包含背景、图标、假期、餐饮、商业、宗教等20个分类近十万个素材</strong>，相信总能找到你想要的。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E9%80%89%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E8%83%8C%E6%99%AF%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%9B%B4%E5%87%BA%E5%BD%A9%EF%BC%81/12.png" alt=""></p><p>Vecteezy除了提供素材外，还支持<strong>在线编辑素材</strong>，在下载素材之前可以对<strong>素材尺寸、颜色、文字、图形等内容进行自定义编辑</strong>。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，希望对你有所帮助，如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;大家好，我是独立开发者Larry～说到设计大家关注较多的往往是&lt;strong&gt;设计主体&lt;/strong&gt;，其实背景也同样重要，&lt;strong&gt;不同的背景可以营造出不同的设计氛围、传达出不同的信息&lt;/strong&gt;，而一个好的背景不仅能&lt;strong&gt;突出主体视觉效果、补充主
-      
-    
-    </summary>
-    
-      <category term="工具资源" scheme="http://maliquankai.com/categories/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
-    
-    
-      <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>福利 | PutApp应用数据分享以及新功能一览</title>
-    <link href="http://maliquankai.com/2019/06/25/2019-06-25-putapp-data/"/>
-    <id>http://maliquankai.com/2019/06/25/2019-06-25-putapp-data/</id>
-    <published>2019-06-25T12:13:01.000Z</published>
-    <updated>2019-12-11T08:03:35.860Z</updated>
-    
-    <content type="html"><![CDATA[<p>大家好，我是独立开发者Larry，今天再来聊一聊PutApp，<strong>PutApp - 一款为设计师、产品经理以及应用收藏爱好者开发的App</strong>，近期随着版本的不断迭代，功能完善的差不多，所以<strong>PutApp近期打算涨价，￥6 → 12</strong>，涨价的时间点会定在本月30号晚24点，<strong>如果你觉得PutApp还不错</strong>，现在是入手的最佳时机，<a href="https://itunes.apple.com/cn/app/putapp/id1456379965?mt=8" target="_blank" rel="noopener">点击即可下载体验</a>。</p><p><strong>另外关注码力全开公众号+聊一聊你希望PutApp有哪些功能？</strong>本周五将从公号留言区选出<strong>5位用户免费送出兑换码</strong>。</p><h3 id="PutApp数据"><a href="#PutApp数据" class="headerlink" title="PutApp数据"></a>PutApp数据</h3><p>介绍新功能前，我先分享一下<strong>PutApp后台统计到的应用数据</strong>，PutApp上线两个月，<strong>目前私密分享的应用3万多，公开分享的应用3千多，10:1的比例</strong>，数据上来看更多用户还是更愿意私密分享，而3千多公开分享的应用可能有<strong>1千左右还是被我拒绝的</strong>，有些人会问到为什么被拒绝，在这里强调一下<strong>PutApp公开分享应用的一些标准</strong>：</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E7%A6%8F%E5%88%A9%20%7C%20PutApp%E5%BA%94%E7%94%A8%E6%95%B0%E6%8D%AE%E5%88%86%E4%BA%AB%E4%BB%A5%E5%8F%8A%E6%96%B0%E5%8A%9F%E8%83%BD%E4%B8%80%E8%A7%88/%E6%95%B0%E6%8D%AE.png" alt=""></p><p><strong>1. 独立开发者作品</strong></p><p><strong>2. 注重设计感和交互的应用</strong></p><p><strong>3. 有创意的产品</strong></p><p><strong>4. 实用提高效率的产品</strong></p><p><strong>5. 评分最好4级以上</strong></p><p>ps：存在抄袭、特别大众类的App不予通过</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E7%A6%8F%E5%88%A9%20%7C%20PutApp%E5%BA%94%E7%94%A8%E6%95%B0%E6%8D%AE%E5%88%86%E4%BA%AB%E4%BB%A5%E5%8F%8A%E6%96%B0%E5%8A%9F%E8%83%BD%E4%B8%80%E8%A7%88/%E5%AE%A1%E6%A0%B8%E6%A0%87%E5%87%86.png" alt=""></p><h3 id="PutApp新功能"><a href="#PutApp新功能" class="headerlink" title="PutApp新功能"></a>PutApp新功能</h3><p><strong>1. 自定义排序</strong></p><p>应用和应用集列表<strong>支持自定义排序，长按即可随意拖拽</strong>，把你喜欢的应用或应用集按照你自定义的顺序来排列。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E7%A6%8F%E5%88%A9%20%7C%20PutApp%E5%BA%94%E7%94%A8%E6%95%B0%E6%8D%AE%E5%88%86%E4%BA%AB%E4%BB%A5%E5%8F%8A%E6%96%B0%E5%8A%9F%E8%83%BD%E4%B8%80%E8%A7%88/%E6%8E%92%E5%BA%8F.gif" alt=""></p><p><strong>2. 默认分类以及截图清晰度</strong></p><p>提交的应用会自动根据<strong>AppStore的分类进行归类</strong>，更方便查看、找到你喜欢的应用，分类按照最新发布的应用进行排序，同时<strong>应用详情页的截图更清晰</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E7%A6%8F%E5%88%A9%20%7C%20PutApp%E5%BA%94%E7%94%A8%E6%95%B0%E6%8D%AE%E5%88%86%E4%BA%AB%E4%BB%A5%E5%8F%8A%E6%96%B0%E5%8A%9F%E8%83%BD%E4%B8%80%E8%A7%88/PutApp.gif" alt=""></p><p><strong>3. 批量添加到应用集以及批量删除</strong></p><p>1.0版本上线后就有很多用户提出批量添加到应用集的需求，现在<strong>最新版PutApp V1.1.2</strong>支持批量添加到应用集以及批量删除应用的功能，不仅首页支持批量添加，<strong>应用集页同样支持</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E7%A6%8F%E5%88%A9%20%7C%20PutApp%E5%BA%94%E7%94%A8%E6%95%B0%E6%8D%AE%E5%88%86%E4%BA%AB%E4%BB%A5%E5%8F%8A%E6%96%B0%E5%8A%9F%E8%83%BD%E4%B8%80%E8%A7%88/%E5%A4%9A%E9%80%89%E6%B7%BB%E5%8A%A0%E5%88%B0%E5%BA%94%E7%94%A8%E9%9B%86.gif" alt=""></p><p><strong>4. 分享榜单</strong></p><p>用户在发现页公开分享的应用，会根据用户<strong>分享的次数从高到低显示前30名被分享的应用</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E7%A6%8F%E5%88%A9%20%7C%20PutApp%E5%BA%94%E7%94%A8%E6%95%B0%E6%8D%AE%E5%88%86%E4%BA%AB%E4%BB%A5%E5%8F%8A%E6%96%B0%E5%8A%9F%E8%83%BD%E4%B8%80%E8%A7%88/%E5%88%86%E4%BA%AB%E6%8E%92%E8%A1%8C%E6%A6%9C.png" alt=""></p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p><strong>未来规划</strong>，PutApp的重点会放到优化<strong>应用显示和应用集的功能上</strong>，比如：应用列表页支持<strong>多种布局的显示</strong>，因为PutApp的定位是收藏那些让你眼前一亮的App，当然我也希望在这里可以看到<strong>大家推荐或喜欢的应用</strong>。</p><p>今天的内容就是这些，希望对你有所帮助，如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;大家好，我是独立开发者Larry，今天再来聊一聊PutApp，&lt;strong&gt;PutApp - 一款为设计师、产品经理以及应用收藏爱好者开发的App&lt;/strong&gt;，近期随着版本的不断迭代，功能完善的差不多，所以&lt;strong&gt;PutApp近期打算涨价，￥6 → 12&lt;/
-      
-    
-    </summary>
-    
-      <category term="个人作品" scheme="http://maliquankai.com/categories/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
-    
-    
-      <category term="码力全开" scheme="http://maliquankai.com/tags/%E7%A0%81%E5%8A%9B%E5%85%A8%E5%BC%80/"/>
-    
-      <category term="个人作品" scheme="http://maliquankai.com/tags/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
     
   </entry>
   
