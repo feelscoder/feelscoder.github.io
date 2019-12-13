@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maliquankai.com/"/>
-  <updated>2019-12-13T11:27:55.173Z</updated>
+  <updated>2019-12-13T16:47:20.100Z</updated>
   <id>http://maliquankai.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://maliquankai.com/2019/12/13/2019-12-13-naker-form/"/>
     <id>http://maliquankai.com/2019/12/13/2019-12-13-naker-form/</id>
     <published>2019-12-13T09:23:01.000Z</published>
-    <updated>2019-12-13T11:27:55.173Z</updated>
+    <updated>2019-12-13T16:47:20.100Z</updated>
     
     <content type="html"><![CDATA[<p>大家好，我是独立开发者Larry～今天继续给大家介绍来自巴黎的技术社区<strong>Naker推出的神器：Naker.Form-交互式表单动画编辑器</strong>。</p><p>它和前面推荐的Naker.Back-交互式背景生成器以及Naker.Story-3D交互式内容编辑器一样，都是简单易用的网络工具，<strong>无需代码，轻松将我们的网站转变为交互式体验，让我们的网站酷起来～</strong></p><h3 id="Naker-Form"><a href="#Naker-Form" class="headerlink" title="Naker.Form"></a>Naker.Form</h3><p>网站地址：<a href="https://naker.io/interactive-forms.html" target="_blank" rel="noopener">https://naker.io/interactive-forms.html</a></p><video controls preload="none" poster="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/poster_form.jpg" width="810" height="450"><br><source src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/Naker.Form.mp4"><br></video><p><strong>表单在我们的网站中是最常见的用户注册及数据获取方式</strong>，但是填写表单可能会很无聊，而如何将这件无聊的事转化为一件有趣的事来提高表单的转化率？<strong>通过Naker.Form的宣传视频，我们就可以感受到Naker.Form的魔力。</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/29.gif" alt=""></p><p>Naker.Form是一个简单易用的工具，可以将交互动画添加到任何现有表单中，使其变得强大！我们填写表单的内容越多，在最终验证显示出来之前，图像动画就会构建的越多，<strong>通过这种游戏化的表格填写体验，来吸引用户填写表单内容、提高表单的转化率。</strong></p><p><strong>Naker.Form并不管理表单本身，而是管理与其链接的交互动画场景</strong>。接下来我们一起在Naker.Form编辑器中体验：</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/30.jpg" alt=""></p><p>首次打开Naker.Form编辑器，来自Naker的Jennifer会引导大家来了解<strong>Naker.Form编辑器以及相关界面和操作，简单无难度。</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/31.jpg" alt=""></p><p>在开始创建交互式场景前，无论你是否已经有了自己的表单，Naker.Form编辑器均会提供一个<strong>“伪造的表单”来模拟设计的呈现，将重点放回交互动画场景。</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/32.png" alt=""></p><p>当然，如果你没有自己的表单，并且喜欢Naker提供的表单设计，<strong>你也可以通过表单上的链接跳转到Github找到该表单资源。</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/33.jpg" alt=""></p><p>继续回到Naker.Form编辑器页面，上面导航栏从左到右分别是<strong>Naker账户登录/注册入口，Naker工具名称、保存项目及导出项目按钮</strong>。下面左侧是交互场景效果实时预览窗口，右侧是操作窗口可以对<strong>场景环境、图片、填写表单融合动画、确认表单爆炸动画等相关参数进行设置或调整。</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/34.gif" alt=""></p><p>在进行自定义交互场景前，Naker.Form还提供了<strong>「Randomize」随机化和「Template」模板按钮快速获得多种可能。</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/35.gif" alt=""></p><p>环境「Environment」设置<strong>背景颜色渐变梯度-垂直/水平/径向渐变、背景开始/结束颜色及透明度、景深等参数。</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/36.gif" alt=""></p><p>图片「Image」是我们交互场景动画中想要显示的图像，比如<strong>LOGO、ICON、文字等其他任何内容，只需要点击图片缩略图「Replace Image」替换上传即可。</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/37.gif" alt=""></p><p>上传完成的图片还需要我们为其定义一个形状，并设定数量和大小。其中形状有：<strong>立方体、球、四面体、八面体、十二面体、二十面体、三棱镜、五角棱镜、六角棱镜、方形金字塔和五角锥等多种3D形状。</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/38.gif" alt=""></p><p>填写表单融合动画「Fusion / Fill in Form」就是字面意思，在填写表单时的交互场景动画设定，在预设值「Preset」中提供了<strong>Merge、RubiksCube、Grow、Squeeze和Elevator 5种默认动画效果</strong>，从中进行选择可以快速获取灵感。此外还可以通过<strong>位置、旋转、比例几个选项进行参数调整。</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/39.gif" alt=""></p><p>确认表单爆炸动画「Explosion / Validate Form」就在填写完表单内容，点击「提交」按钮确认表单时的动画。与上面的填写表单融合动画类似，同样在预设值「Preset」中提供了<strong>Explosion、Waterfall、Floating和Wind4种默认动画效果</strong>，从中进行选择可以快速获取灵感。此外还可以通过重力、功率几个选项进行参数调整。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A53-Naker.Form/40.png" alt=""></p><p>构建完成自己的交互式场景之后，<strong>我们可以将项目保存或导出并与我们网站上的表单进行链接</strong>。保存或导出项目首先需要我们登录Naker账户，登录之后点击导出「Export」按钮即可得到我们的项目代码，点击<strong>复制将这些代码粘贴到我们的网站源码中，它将自动检测页面上存在的表单</strong>。</p><p><strong>Naker.Form场景可以嵌入到网站上的任何位置</strong>，无论你的网站是使用Tilda、Webflow、Unbounce、Wordpress…具体操作可以参看导出弹窗上的「article」链接文章，这里就不过多说明了。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p><strong>关于Naker提供的增强页面交互工具：Naker.Back、Naker.Story和Naker.Form，今天就已全部推荐给了大家</strong>，希望能对你有所帮助～</p><p>今天的内容就是这些，访问码力全开大学堂（<a href="www.maliquankai.cn">www.maliquankai.cn</a>）领取好礼，如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
     
@@ -312,9 +312,9 @@
       <category term="工具资源" scheme="http://maliquankai.com/categories/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
     
     
-      <category term="图库网站" scheme="http://maliquankai.com/tags/%E5%9B%BE%E5%BA%93%E7%BD%91%E7%AB%99/"/>
-    
       <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
+    
+      <category term="图库网站" scheme="http://maliquankai.com/tags/%E5%9B%BE%E5%BA%93%E7%BD%91%E7%AB%99/"/>
     
   </entry>
   
@@ -527,9 +527,9 @@
       <category term="个人作品" scheme="http://maliquankai.com/categories/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
     
     
-      <category term="个人作品" scheme="http://maliquankai.com/tags/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
-    
       <category term="码力全开" scheme="http://maliquankai.com/tags/%E7%A0%81%E5%8A%9B%E5%85%A8%E5%BC%80/"/>
+    
+      <category term="个人作品" scheme="http://maliquankai.com/tags/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
     
   </entry>
   
