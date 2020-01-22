@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maliquankai.com/"/>
-  <updated>2020-01-21T03:18:46.901Z</updated>
+  <updated>2020-01-22T14:36:59.229Z</updated>
   <id>http://maliquankai.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>可快速自定义的SVG图标推荐</title>
+    <link href="http://maliquankai.com/2020/01/23/2020-01-23-icon-svg/"/>
+    <id>http://maliquankai.com/2020/01/23/2020-01-23-icon-svg/</id>
+    <published>2020-01-22T16:18:01.000Z</published>
+    <updated>2020-01-22T14:36:59.229Z</updated>
+    
+    <content type="html"><![CDATA[<p>大家好，我是独立开发者Larry～，今天<strong>推荐一个可自定义的SVG图标，它可以自定义颜色、尺寸和线条宽度等等</strong>。</p><p><strong>IconSVG 是一组SVG图标</strong>，你可以进行一定程度上的小幅度修改，使得每个图标都贴合你的需求。</p><h3 id="ICONSVG"><a href="#ICONSVG" class="headerlink" title="ICONSVG"></a>ICONSVG</h3><p>网站地址：<a href="https://iconsvg.xyz" target="_blank" rel="noopener">https://iconsvg.xyz</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%8F%AF%E5%BF%AB%E9%80%9F%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9A%84SVG%E5%9B%BE%E6%A0%87%E6%8E%A8%E8%8D%90/6.gif" alt=""></p><p>打开网站可以看到两个种类的图标，<strong>一个是系统图标，另外一个是社交平台的图标</strong>，图标不多，但能满足基本需求。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%8F%AF%E5%BF%AB%E9%80%9F%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9A%84SVG%E5%9B%BE%E6%A0%87%E6%8E%A8%E8%8D%90/1.jpg" alt=""></p><p>点击任何一个图标我们可以在<strong>右侧区域进行图标自定义，比如修改颜色、线条宽度、图标大小等等</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%8F%AF%E5%BF%AB%E9%80%9F%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9A%84SVG%E5%9B%BE%E6%A0%87%E6%8E%A8%E8%8D%90/3.jpg" alt=""></p><p>点击社交平台入口可以看到不同的社交平台图标，<strong>比如facebook、twitter、dribbble、apple等</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%8F%AF%E5%BF%AB%E9%80%9F%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9A%84SVG%E5%9B%BE%E6%A0%87%E6%8E%A8%E8%8D%90/2.jpg" alt=""></p><p>我们也可以点击顶部的搜索入口，<strong>搜索自己想要的图标</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%8F%AF%E5%BF%AB%E9%80%9F%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9A%84SVG%E5%9B%BE%E6%A0%87%E6%8E%A8%E8%8D%90/4.jpg" alt=""></p><p>选择一个中意的图标，自定义完成后，<strong>可以点击右侧底部的下载按钮或者复制SVG代码即可使用</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%8F%AF%E5%BF%AB%E9%80%9F%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9A%84SVG%E5%9B%BE%E6%A0%87%E6%8E%A8%E8%8D%90/5.png" alt=""></p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，访问<a href="https://www.maliquankai.cn" target="_blank" rel="noopener">码力全开大学堂</a>领取好礼，如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;大家好，我是独立开发者Larry～，今天&lt;strong&gt;推荐一个可自定义的SVG图标，它可以自定义颜色、尺寸和线条宽度等等&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IconSVG 是一组SVG图标&lt;/strong&gt;，你可以进行一定程度上的小幅度修改，使得每个图标都
+      
+    
+    </summary>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/categories/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="图标网站" scheme="http://maliquankai.com/tags/%E5%9B%BE%E6%A0%87%E7%BD%91%E7%AB%99/"/>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
   
   <entry>
     <title>700+线条图标免费下载，种类齐全</title>
@@ -396,9 +424,9 @@
       <category term="工具资源" scheme="http://maliquankai.com/categories/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
     
     
-      <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
-    
       <category term="图库网站" scheme="http://maliquankai.com/tags/%E5%9B%BE%E5%BA%93%E7%BD%91%E7%AB%99/"/>
+    
+      <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
     
   </entry>
   
@@ -527,33 +555,6 @@
       
       
         &lt;p&gt;大家好，我是独立开发者Larry～今天继续给大家推荐来自&lt;strong&gt;巴黎的技术社区Naker&lt;/strong&gt;，为了使我们的网站更具&lt;strong&gt;交互性、更加生动有趣而创建了Naker.Back、Naker.Story和Naker.Form…几个很酷的工具&lt;/stro
-      
-    
-    </summary>
-    
-      <category term="工具资源" scheme="http://maliquankai.com/categories/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
-    
-    
-      <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
-    
-      <category term="3D交互" scheme="http://maliquankai.com/tags/3D%E4%BA%A4%E4%BA%92/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>让你的网站酷起来</title>
-    <link href="http://maliquankai.com/2019/11/14/2019-11-14-naker-site/"/>
-    <id>http://maliquankai.com/2019/11/14/2019-11-14-naker-site/</id>
-    <published>2019-11-14T09:23:01.000Z</published>
-    <updated>2019-12-25T07:17:29.448Z</updated>
-    
-    <content type="html"><![CDATA[<p>大家好，我是独立开发者Larry～今天要给大家推荐的是<strong>来自巴黎的技术社区Naker</strong>，以及他们为了使我们的网站更具交互性、更加生动有趣而创建的几个很酷的工具：<strong>Naker.Back、Naker.Story和Naker.Form</strong>。</p><h3 id="Naker"><a href="#Naker" class="headerlink" title="Naker"></a>Naker</h3><p>网站地址：<a href="https://naker.io/index.html" target="_blank" rel="noopener">https://naker.io/index.html</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A5/1.gif" alt=""></p><p>Naker是一个<strong>致力于使Web更具交互性、沉浸性和创造力的专业团队</strong>，也是一个聚集了全球2500多位3D或Web设计师、营销人员和数字爱好者的社区，他们通过<strong>交互背景、3D交互动画和游戏化表格使网站再次变得炫酷</strong>。</p><p>另外<strong>PutApp新版1.2.0已上线，适配了暗黑模式，支持Apple账户登录、邮箱登录</strong>，欢迎下载体验！</p><h3 id="灵感示例"><a href="#灵感示例" class="headerlink" title="灵感示例"></a>灵感示例</h3><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A5/2.gif" alt=""></p><p>打开 Naker 首页我们可以看到交互在网站中的体现，同样「将网站转变为互动体验」是 Naker 的 Slogan 也是服务目标，为此 Naker 提供了大量优秀的特色项目，<strong>帮我们从中获得灵感以开始自己的项目</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A5/3.png" alt=""></p><p>点击「Get inspired」激发灵感按钮或导航栏中的「Inspiration」灵感链接进入项目示例页面，<strong>首先会看到 Naker 提供的两个关于 Naker.Back 和 Naker.Story 的本月精选项目</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A5/4.gif" alt=""></p><p>本月精选项目后面分别是关于Naker.Back 和 Naker.Story 的更多项目示例展示，<strong>每一个项目示例都对应着一个网站或演示页面，通过示例我们能看到关于 Naker 工具的具体运用效果</strong>，随便打开一个示例我们一起来看：</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A5/5.gif" alt=""></p><p><strong>Naker.Back示例—HD Rain网站</strong></p><p>网站地址：<a href="https://hd-rain.com" target="_blank" rel="noopener">https://hd-rain.com</a></p><video controls preload="none" poster="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A5/poster.jpg" width="730" height="450"><br><source src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A5/6.mp4" type="video/mp4"><br></video><p><strong>Naker.Story示例——Tesla Model S</strong></p><p>演示地址：<a href="http://1t.click/bcY5" target="_blank" rel="noopener">http://1t.click/bcY5</a></p><h3 id="Naker-Back"><a href="#Naker-Back" class="headerlink" title="Naker.Back"></a>Naker.Back</h3><p>网站地址：<a href="https://naker.io/interactive-background.html" target="_blank" rel="noopener">https://naker.io/interactive-background.html</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A5/7.gif" alt=""></p><p><strong>Naker.Back是一个免费的3D交互式背景生成器</strong>，通过前面HD Rain网站示例，我们可以看到<strong>背景颜色、粒子动画与鼠标的交互</strong>，那么这些都是如何制作的呢？</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A5/8.png" alt=""></p><p>进入Naker.Back编辑器页面，上面导航栏从左到右分别是Naker账户登录/注册入口，Naker工具名称、保存项目及导出背景按钮。下面左侧是背景效果实时预览窗口，右侧是操作窗口可以对<strong>背景颜色、粒子、动画等相关参数进行设置或调整</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A5/9.gif" alt=""></p><p>在进行自定义交互背景前，Naker.Back还提供了「Randomize」随机生成交互背景和「Template」模版背景按钮快速创建交互背景。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A5/10.gif" alt=""></p><p>设置背景颜色包含渐变角度：<strong>垂直/水平/径向渐变、背景开始/结束颜色及透明度、粒子开始/结束颜色及透明度等参数</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A5/11.gif" alt=""></p><p><strong>粒子参数包含粒子图像、数量和尺寸大小</strong>，点击粒子图像可以选择Naker.Back提供的其他粒子图像、上传自己的粒子图像或者不使用粒子图像。<strong>注意：上传的粒子图像仅支持PNG格式</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A5/12.gif" alt=""></p><p>在Movements动画模块，可以通过<strong>箭头控制粒子的运动方向、速度控制粒子的运动快慢节奏、相机灵敏度管理鼠标与背景的交互动画</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E9%85%B7%E8%B5%B7%E6%9D%A5/13.gif" alt=""></p><p><strong>创建完成一个满意的交互背景之后，我们可以免费导出该背景的代码信息，并可将代码嵌入网站或应用中</strong>。注意：导出背景或保存项目，需要创建一个Naker账户。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>由于篇幅的原因，今天就先带大家一起体验Naker.Back这个工具，下期我们会继续后面的工具。</p><p>今天的内容就是这些，访问<a href="https://www.maliquankai.cn" target="_blank" rel="noopener">码力全开大学堂</a>领取好礼，如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;大家好，我是独立开发者Larry～今天要给大家推荐的是&lt;strong&gt;来自巴黎的技术社区Naker&lt;/strong&gt;，以及他们为了使我们的网站更具交互性、更加生动有趣而创建的几个很酷的工具：&lt;strong&gt;Naker.Back、Naker.Story和Naker.Form&lt;
       
     
     </summary>
