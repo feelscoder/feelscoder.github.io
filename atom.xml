@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maliquankai.com/"/>
-  <updated>2020-04-27T03:56:55.271Z</updated>
+  <updated>2020-05-01T05:57:14.182Z</updated>
   <id>http://maliquankai.com/</id>
   
   <author>
@@ -15,6 +15,61 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HomeTime - 余生很长，留点时间陪伴家人</title>
+    <link href="http://maliquankai.com/2020/05/01/2020-05-01-hometime-testflight/"/>
+    <id>http://maliquankai.com/2020/05/01/2020-05-01-hometime-testflight/</id>
+    <published>2020-05-01T05:21:01.000Z</published>
+    <updated>2020-05-01T05:57:14.182Z</updated>
+    
+    <content type="html"><![CDATA[<p>大家好，我是独立开发者Larry，<strong>今年新开的一个产品HomeTime已完工，邀请大家来参与公测</strong>，这个产品还有很多想法，第一版先简单呈现，目前<strong>麻雀虽小五脏俱全，你的每一个想法和建议都会让HomeTime变得更好，期待听到你的声音</strong>。</p><p>接下来，我将平铺直叙的来介绍一下<strong>HomeTime产品的来源、功能、公测，希望大家多支持和反馈</strong>。</p><h3 id="HomeTime产品来源"><a href="#HomeTime产品来源" class="headerlink" title="HomeTime产品来源"></a>HomeTime产品来源</h3><p>今年疫情爆发，对于我来说是一次难得可以陪伴父母身边那么久的机会，在家呆了将近两个月，父母安好，全家聚在一起，我感受到了父母脸庞上的幸福。</p><p>周杰伦的《外婆》里，有一句歌词很打动人心：<br><strong>“外婆她的期待，慢慢变成无奈，大人们始终不明白，她要的是陪伴，而不是六百块”</strong>。</p><p>父母要的，从来都不是物质上的回馈，而是我们抽空的陪伴，<strong>我希望通过一款产品内置一些有意义的事项来告诉用户应该如何陪伴父母</strong>，比如：陪父母看一场电影、记住父母的生日、带父母去旅游等等，通过这些事项来加深子女和父母之间的感情，<strong>所以，就有了现在的HomeTime</strong>。</p><h3 id="HomeTime-余生很长，留点时间陪伴家人"><a href="#HomeTime-余生很长，留点时间陪伴家人" class="headerlink" title="HomeTime - 余生很长，留点时间陪伴家人"></a>HomeTime - 余生很长，留点时间陪伴家人</h3><p><strong>HomeTime 是一款记录和提醒你陪伴父母、亲人的一款效率工具</strong>，我们总相信来日方长，以为晚一点，再晚一点，下次，还有下一次，可父母等不起我们许久不打的电话，更等不起一年只回一次家的火车，谁也不知道还剩下多少时间。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/HomeTime%20-%20%E4%BD%99%E7%94%9F%E5%BE%88%E9%95%BF%EF%BC%8C%E7%95%99%E7%82%B9%E6%97%B6%E9%97%B4%E9%99%AA%E4%BC%B4%E5%AE%B6%E4%BA%BA/0_%E9%A6%96%E9%A1%B5.png" alt=""></p><p><strong>HomeTime 时刻提醒你工作再忙，也要留点时间陪伴家人，趁父母健在，珍惜现在的时光，多给他们一些陪伴</strong>。</p><p>HomeTime 内置了丰富的头像库、事项库、配图库等等，比如：</p><p>•  记住父母的生日<br>•  带父母去旅游<br>•  陪父母每年做一次体检<br>•  和父母一起去爬山<br>•  和父母一起看电影<br>•  帮母亲做家务<br>•  和父亲一起锻炼身体<br>•  陪老婆一起逛宜家 …..</p><p>未来会至少会丰富100件为父母做的事。</p><h3 id="HomeTime有哪些具体的功能？"><a href="#HomeTime有哪些具体的功能？" class="headerlink" title="HomeTime有哪些具体的功能？"></a>HomeTime有哪些具体的功能？</h3><p>家庭成员：<strong>支持自定义家庭成员可拖拽排序，内置丰富头像和颜色</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/HomeTime%20-%20%E4%BD%99%E7%94%9F%E5%BE%88%E9%95%BF%EF%BC%8C%E7%95%99%E7%82%B9%E6%97%B6%E9%97%B4%E9%99%AA%E4%BC%B4%E5%AE%B6%E4%BA%BA/1_%E5%AE%B6%E5%BA%AD%E6%88%90%E5%91%98.png" alt=""></p><p>亲人事项：<strong>可以为不同的家庭成员创建对应的事项，内置丰富事项库</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/HomeTime%20-%20%E4%BD%99%E7%94%9F%E5%BE%88%E9%95%BF%EF%BC%8C%E7%95%99%E7%82%B9%E6%97%B6%E9%97%B4%E9%99%AA%E4%BC%B4%E5%AE%B6%E4%BA%BA/2_%E4%BA%B2%E4%BA%BA%E4%BA%8B%E9%A1%B9.png" alt=""></p><p>亲人陪伴：输入父母的出生日期和寿命即可查看剩下的日子里，<strong>那些有意义的事项还能做多少次</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/HomeTime%20-%20%E4%BD%99%E7%94%9F%E5%BE%88%E9%95%BF%EF%BC%8C%E7%95%99%E7%82%B9%E6%97%B6%E9%97%B4%E9%99%AA%E4%BC%B4%E5%AE%B6%E4%BA%BA/3_%C2%A0%E4%BA%B2%E4%BA%BA%E9%99%AA%E4%BC%B4.png" alt=""></p><p>相伴时刻：<strong>一目了然查看事项的时间进度、距离天数、小时等等</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/HomeTime%20-%20%E4%BD%99%E7%94%9F%E5%BE%88%E9%95%BF%EF%BC%8C%E7%95%99%E7%82%B9%E6%97%B6%E9%97%B4%E9%99%AA%E4%BC%B4%E5%AE%B6%E4%BA%BA/4_%E9%99%AA%E4%BC%B4%E6%97%B6%E5%88%BB.png" alt=""></p><p>岁月时光：<strong>不仅可以创建未来的计划/事项，也可以添加已完成的事项</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/HomeTime%20-%20%E4%BD%99%E7%94%9F%E5%BE%88%E9%95%BF%EF%BC%8C%E7%95%99%E7%82%B9%E6%97%B6%E9%97%B4%E9%99%AA%E4%BC%B4%E5%AE%B6%E4%BA%BA/5_%E5%B2%81%E6%9C%88%E6%97%B6%E5%85%89.png" alt=""></p><p>创建事项：目标/完成时间，<strong>支持每天、每周、每月、每年、具体日期的选择，同时也支持整点提醒设置</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/HomeTime%20-%20%E4%BD%99%E7%94%9F%E5%BE%88%E9%95%BF%EF%BC%8C%E7%95%99%E7%82%B9%E6%97%B6%E9%97%B4%E9%99%AA%E4%BC%B4%E5%AE%B6%E4%BA%BA/6_%E5%88%9B%E5%BB%BA%E4%BA%8B%E9%A1%B9.png" alt=""></p><p>公农历切换：<strong>支持公历、农历自由切换</strong>，记下你每个农历的事项。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/HomeTime%20-%20%E4%BD%99%E7%94%9F%E5%BE%88%E9%95%BF%EF%BC%8C%E7%95%99%E7%82%B9%E6%97%B6%E9%97%B4%E9%99%AA%E4%BC%B4%E5%AE%B6%E4%BA%BA/7_%E5%85%AC%E5%86%9C%E5%8E%86%E5%88%87%E6%8D%A2.png" alt=""></p><p>亲情提醒：创建的计划/事项准时提醒，重要日子，永不错过。</p><p>隐私保护：<strong>密码锁定，保护你的私密数据</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/HomeTime%20-%20%E4%BD%99%E7%94%9F%E5%BE%88%E9%95%BF%EF%BC%8C%E7%95%99%E7%82%B9%E6%97%B6%E9%97%B4%E9%99%AA%E4%BC%B4%E5%AE%B6%E4%BA%BA/8_%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4.png" alt=""></p><p>主题换肤：<strong>多种皮肤类型自由切换，默认-黄、高雅-绿、吉祥-红、含蓄-咖</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/HomeTime%20-%20%E4%BD%99%E7%94%9F%E5%BE%88%E9%95%BF%EF%BC%8C%E7%95%99%E7%82%B9%E6%97%B6%E9%97%B4%E9%99%AA%E4%BC%B4%E5%AE%B6%E4%BA%BA/9_%E4%B8%BB%E9%A2%98%E6%8D%A2%E8%82%A4.png" alt=""></p><p>壁纸分享：<strong>支持计划、事项保存为桌面壁纸以及卡片形式分享给好友</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/HomeTime%20-%20%E4%BD%99%E7%94%9F%E5%BE%88%E9%95%BF%EF%BC%8C%E7%95%99%E7%82%B9%E6%97%B6%E9%97%B4%E9%99%AA%E4%BC%B4%E5%AE%B6%E4%BA%BA/10_%E5%A3%81%E7%BA%B8%E5%88%86%E4%BA%AB.png" alt=""></p><h3 id="如何参与公测"><a href="#如何参与公测" class="headerlink" title="如何参与公测"></a>如何参与公测</h3><p><strong>TestFlight 链接</strong>：<a href="https://testflight.apple.com/join/4EiEwgRB" target="_blank" rel="noopener">https://testflight.apple.com/join/4EiEwgRB</a></p><p><strong>TestFlight版本公测期间，HomeTime包含的内购使用苹果支付通道，你无需付费，即可免费完成内购来测试高级版本的功能，目前名额有限，先到先得</strong>。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;大家好，我是独立开发者Larry，&lt;strong&gt;今年新开的一个产品HomeTime已完工，邀请大家来参与公测&lt;/strong&gt;，这个产品还有很多想法，第一版先简单呈现，目前&lt;strong&gt;麻雀虽小五脏俱全，你的每一个想法和建议都会让HomeTime变得更好，期待听到你的声
+      
+    
+    </summary>
+    
+      <category term="个人作品" scheme="http://maliquankai.com/categories/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="码力全开" scheme="http://maliquankai.com/tags/%E7%A0%81%E5%8A%9B%E5%85%A8%E5%BC%80/"/>
+    
+      <category term="个人作品" scheme="http://maliquankai.com/tags/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>25+免费的远程工作矢量插画</title>
+    <link href="http://maliquankai.com/2020/04/30/2020-04-30-remote-illustraions/"/>
+    <id>http://maliquankai.com/2020/04/30/2020-04-30-remote-illustraions/</id>
+    <published>2020-04-30T11:37:01.000Z</published>
+    <updated>2020-05-01T05:57:35.275Z</updated>
+    
+    <content type="html"><![CDATA[<p>大家好，我是独立开发者Larry～，<strong>今年的疫情促使了很多远程工作者</strong>，今天发现了一组远程工作的矢量插画，质量很高，<strong>插画支持SVG、PNG、Figma和AI格式，可免费用在个人和商业项目中</strong>。</p><h3 id="Free-Remote-Work-Illustrations"><a href="#Free-Remote-Work-Illustrations" class="headerlink" title="Free Remote Work Illustrations"></a><a href="https://gumroad.com/l/VSFQU/?ref=oblikstudio" target="_blank" rel="noopener">Free Remote Work Illustrations</a></h3><p>网址：<a href="https://gumroad.com/l/VSFQU/?ref=oblikstudio" target="_blank" rel="noopener">https://gumroad.com/l/VSFQU/?ref=oblikstudio</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/25%2B%E5%85%8D%E8%B4%B9%E7%9A%84%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB/1.jpg" alt=""></p><p><strong>超过25种SVG、PNG、Figma和AI格式的矢量插图</strong>，感谢<a href="https://oblik.studio/" target="_blank" rel="noopener">Oblik Studio</a>分享此免费赠品。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/25%2B%E5%85%8D%E8%B4%B9%E7%9A%84%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB/2.png" alt=""></p><p>Oblik Studio最近发布了<a href="https://moderemote.com/?ref=remote-work-illustrations-gumroad" target="_blank" rel="noopener">远程模式</a>，一个包含了有关远程工作的资源目录。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/25%2B%E5%85%8D%E8%B4%B9%E7%9A%84%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB/3.png" alt=""></p><p><strong>所有远程工作的插画资源预览效果图</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/25%2B%E5%85%8D%E8%B4%B9%E7%9A%84%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB/free-remote-work-illustrations.jpg" alt=""></p><p><strong>PS：公众号后台回复「Remote Illustrations」即可免费下载打包好的远程工作插画素材</strong>。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;大家好，我是独立开发者Larry～，&lt;strong&gt;今年的疫情促使了很多远程工作者&lt;/strong&gt;，今天发现了一组远程工作的矢量插画，质量很高，&lt;strong&gt;插画支持SVG、PNG、Figma和AI格式，可免费用在个人和商业项目中&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 i
+      
+    
+    </summary>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/categories/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="插画素材" scheme="http://maliquankai.com/tags/%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/"/>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
   
   <entry>
     <title>免费可商用的404插画素材</title>
@@ -510,61 +565,6 @@
       <category term="配色网站" scheme="http://maliquankai.com/tags/%E9%85%8D%E8%89%B2%E7%BD%91%E7%AB%99/"/>
     
       <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>为设计师提供的精选颜色、字体等资源库</title>
-    <link href="http://maliquankai.com/2020/02/29/2020-02-29-font-color/"/>
-    <id>http://maliquankai.com/2020/02/29/2020-02-29-font-color/</id>
-    <published>2020-02-29T15:32:01.000Z</published>
-    <updated>2020-04-01T10:43:49.632Z</updated>
-    
-    <content type="html"><![CDATA[<p>大家好，我是独立开发者Larry～今天推荐<strong>一个汇集13个资源的颜色/字体/资源网站，特别是网站上的配色网站</strong>，体验后还不错。</p><h3 id="Colors-And-Fonts"><a href="#Colors-And-Fonts" class="headerlink" title="Colors And Fonts"></a>Colors And Fonts</h3><p>网站地址：<a href="https://www.colorsandfonts.com" target="_blank" rel="noopener">https://www.colorsandfonts.com</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%BA%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E5%92%8C%E8%AE%BE%E8%AE%A1%E5%B8%88%E6%8F%90%E4%BE%9B%E7%9A%84%E7%B2%BE%E9%80%89%E9%A2%9C%E8%89%B2%E3%80%81%E5%AD%97%E4%BD%93%E3%80%81%E8%B5%84%E6%BA%90%E5%BA%93/1.png" alt=""></p><p>打开网站，可以看到提供的13个工具资源，比如<strong>第一个Color Palettes，它可以获取整个调色板的十六进制颜色，鼠标移动上去可以复制色值也可以下载调色板的图片</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%BA%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E5%92%8C%E8%AE%BE%E8%AE%A1%E5%B8%88%E6%8F%90%E4%BE%9B%E7%9A%84%E7%B2%BE%E9%80%89%E9%A2%9C%E8%89%B2%E3%80%81%E5%AD%97%E4%BD%93%E3%80%81%E8%B5%84%E6%BA%90%E5%BA%93/2.png" alt=""></p><p>第二个<strong>Color Gradients，它是一个渐变色可以用作背景色</strong>，同样可以复制色值和下载渐变色的图片。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%BA%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E5%92%8C%E8%AE%BE%E8%AE%A1%E5%B8%88%E6%8F%90%E4%BE%9B%E7%9A%84%E7%B2%BE%E9%80%89%E9%A2%9C%E8%89%B2%E3%80%81%E5%AD%97%E4%BD%93%E3%80%81%E8%B5%84%E6%BA%90%E5%BA%93/3.jpg" alt=""></p><p>第三个<strong>Color Contrast，两个颜色的色彩对比</strong>，通过颜色对比可以找到适合你项目的颜色。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%BA%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E5%92%8C%E8%AE%BE%E8%AE%A1%E5%B8%88%E6%8F%90%E4%BE%9B%E7%9A%84%E7%B2%BE%E9%80%89%E9%A2%9C%E8%89%B2%E3%80%81%E5%AD%97%E4%BD%93%E3%80%81%E8%B5%84%E6%BA%90%E5%BA%93/4.png" alt=""></p><p>第四个<strong>Material UI Colors，它是可以获取你喜欢Material UI颜色的有效方法</strong>，点开一个颜色即可看到不同的渐变色。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%BA%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E5%92%8C%E8%AE%BE%E8%AE%A1%E5%B8%88%E6%8F%90%E4%BE%9B%E7%9A%84%E7%B2%BE%E9%80%89%E9%A2%9C%E8%89%B2%E3%80%81%E5%AD%97%E4%BD%93%E3%80%81%E8%B5%84%E6%BA%90%E5%BA%93/5.png" alt=""></p><p>第五个<strong>Color Gradient Patterns，它提供的是一组渐变色图案</strong>，同样可以复制色值用作背景。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%BA%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E5%92%8C%E8%AE%BE%E8%AE%A1%E5%B8%88%E6%8F%90%E4%BE%9B%E7%9A%84%E7%B2%BE%E9%80%89%E9%A2%9C%E8%89%B2%E3%80%81%E5%AD%97%E4%BD%93%E3%80%81%E8%B5%84%E6%BA%90%E5%BA%93/6.png" alt=""></p><p>第八个<strong>Designer，这是一个针对设计师的资源</strong>，它里面有<strong>设计工具、设计灵感、图标、图库、插画、教育</strong>等内容。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%BA%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E5%92%8C%E8%AE%BE%E8%AE%A1%E5%B8%88%E6%8F%90%E4%BE%9B%E7%9A%84%E7%B2%BE%E9%80%89%E9%A2%9C%E8%89%B2%E3%80%81%E5%AD%97%E4%BD%93%E3%80%81%E8%B5%84%E6%BA%90%E5%BA%93/7.jpg" alt=""></p><p>第九个<strong>Developers，这是一个针对开发者的资源，有开发工具、框架、网站构建工具等资源</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%BA%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E5%92%8C%E8%AE%BE%E8%AE%A1%E5%B8%88%E6%8F%90%E4%BE%9B%E7%9A%84%E7%B2%BE%E9%80%89%E9%A2%9C%E8%89%B2%E3%80%81%E5%AD%97%E4%BD%93%E3%80%81%E8%B5%84%E6%BA%90%E5%BA%93/8.jpg" alt=""></p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，访问<a href="https://www.maliquankai.cn" target="_blank" rel="noopener">码力全开大学堂</a>领取好礼，如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;大家好，我是独立开发者Larry～今天推荐&lt;strong&gt;一个汇集13个资源的颜色/字体/资源网站，特别是网站上的配色网站&lt;/strong&gt;，体验后还不错。&lt;/p&gt;
-&lt;h3 id=&quot;Colors-And-Fonts&quot;&gt;&lt;a href=&quot;#Colors-And-Fonts&quot; 
-      
-    
-    </summary>
-    
-      <category term="配色网站" scheme="http://maliquankai.com/categories/%E9%85%8D%E8%89%B2%E7%BD%91%E7%AB%99/"/>
-    
-    
-      <category term="配色网站" scheme="http://maliquankai.com/tags/%E9%85%8D%E8%89%B2%E7%BD%91%E7%AB%99/"/>
-    
-      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>超人气码力全开资源站已收录超过270个网站</title>
-    <link href="http://maliquankai.com/2020/02/27/2020-02-27-mlqkdesign/"/>
-    <id>http://maliquankai.com/2020/02/27/2020-02-27-mlqkdesign/</id>
-    <published>2020-02-27T08:25:01.000Z</published>
-    <updated>2020-02-28T05:42:38.134Z</updated>
-    
-    <content type="html"><![CDATA[<p>大家好，我是独立开发者Larry～<strong>码力全开资源站上线以来备受关注</strong>，因为资源站收录的大多数是我以前文章中推荐过的神器，很多资源自己使用后觉得好用才会推荐给大家，<strong>码力全开资源站不求资源最多，只求推荐的都是高质量资源</strong>，现在把资源站的地址重定向到二级域名<strong><a href="https://design.maliquankai.com" target="_blank" rel="noopener">https://design.maliquankai.com</a></strong> 大家记得收藏备查。</p><p><strong>目前这个产品/设计师/独立开发者的资源站已经收录超过270个网站，每个分类都可以看到收录的网站个数，找资源来码力全开资源站！</strong></p><h3 id="码力全开资源站"><a href="#码力全开资源站" class="headerlink" title="码力全开资源站"></a>码力全开资源站</h3><p>网站地址：<a href="https://design.maliquankai.com" target="_blank" rel="noopener">https://design.maliquankai.com</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%B6%85%E4%BA%BA%E6%B0%94%E7%A0%81%E5%8A%9B%E5%85%A8%E5%BC%80%E8%B5%84%E6%BA%90%E7%AB%99%E6%94%B6%E5%BD%95%E8%B6%85%E8%BF%87270%E4%B8%AA%E7%BD%91%E7%AB%99/1.jpg" alt=""></p><p>打开网站，<strong>Banner位显示近期码力全开工作室发布的最新/热门文章</strong>，文章内详细介绍了设计资源的内容。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%B6%85%E4%BA%BA%E6%B0%94%E7%A0%81%E5%8A%9B%E5%85%A8%E5%BC%80%E8%B5%84%E6%BA%90%E7%AB%99%E6%94%B6%E5%BD%95%E8%B6%85%E8%BF%87270%E4%B8%AA%E7%BD%91%E7%AB%99/2.jpg" alt=""></p><p><strong>导航栏的资源分类鼠标移动过去或者点击就会展开所有的资源分类，目前更新了25个分类</strong>，每个分类的资源都是精心准备。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%B6%85%E4%BA%BA%E6%B0%94%E7%A0%81%E5%8A%9B%E5%85%A8%E5%BC%80%E8%B5%84%E6%BA%90%E7%AB%99%E6%94%B6%E5%BD%95%E8%B6%85%E8%BF%87270%E4%B8%AA%E7%BD%91%E7%AB%99/3.jpg" alt=""></p><p>之前更新15个分类的丰富资源不再赘述，这两天<strong>新增了5个分类，分别是音效资源、表情设计、动效设计、开源项目、前端框架，比如音效资源</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%B6%85%E4%BA%BA%E6%B0%94%E7%A0%81%E5%8A%9B%E5%85%A8%E5%BC%80%E8%B5%84%E6%BA%90%E7%AB%99%E6%94%B6%E5%BD%95%E8%B6%85%E8%BF%87270%E4%B8%AA%E7%BD%91%E7%AB%99/4.jpg" alt=""></p><p>2018年10月份绘制码力全开的表情包，11月份上线，<strong>网站上记录了表情包从制作到上架的过程，这里提供了一些表情相关的资源供你参考</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%B6%85%E4%BA%BA%E6%B0%94%E7%A0%81%E5%8A%9B%E5%85%A8%E5%BC%80%E8%B5%84%E6%BA%90%E7%AB%99%E6%94%B6%E5%BD%95%E8%B6%85%E8%BF%87270%E4%B8%AA%E7%BD%91%E7%AB%99/5.jpg" alt=""></p><p>以前写过一篇文章<a href="https://www.maliquankai.com/2019/07/23/2019-07-23-lottie-animation/" target="_blank" rel="noopener"><strong>代码实现动画也可以很简单</strong></a>，此篇文章中<strong>介绍了4个动画相关的资源</strong>，现在汇总了一些动效设计相关的资源网站。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%B6%85%E4%BA%BA%E6%B0%94%E7%A0%81%E5%8A%9B%E5%85%A8%E5%BC%80%E8%B5%84%E6%BA%90%E7%AB%99%E6%94%B6%E5%BD%95%E8%B6%85%E8%BF%87270%E4%B8%AA%E7%BD%91%E7%AB%99/6.jpg" alt=""></p><p>去年推荐过一些<strong>不错的开源项目，每篇文章都有不少的优秀的GitHub项目</strong>，所以把以前推荐过的开源项目都汇总到这里了。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%B6%85%E4%BA%BA%E6%B0%94%E7%A0%81%E5%8A%9B%E5%85%A8%E5%BC%80%E8%B5%84%E6%BA%90%E7%AB%99%E6%94%B6%E5%BD%95%E8%B6%85%E8%BF%87270%E4%B8%AA%E7%BD%91%E7%AB%99/7.jpg" alt=""></p><p>最后整理了<strong>一些感觉不错的前端框架，有些是目前比较流行的前端框架</strong>，希望对你有所帮助。</p><p><strong>PS：做这个资源站的目的是为了造福创造者，希望每个人都能尊重创造者，不要恶意的抄袭码力全开资源站</strong></p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，访问<a href="https://www.maliquankai.cn" target="_blank" rel="noopener">码力全开大学堂</a>领取好礼，如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;大家好，我是独立开发者Larry～&lt;strong&gt;码力全开资源站上线以来备受关注&lt;/strong&gt;，因为资源站收录的大多数是我以前文章中推荐过的神器，很多资源自己使用后觉得好用才会推荐给大家，&lt;strong&gt;码力全开资源站不求资源最多，只求推荐的都是高质量资源&lt;/stron
-      
-    
-    </summary>
-    
-      <category term="个人作品" scheme="http://maliquankai.com/categories/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
-    
-    
-      <category term="码力全开" scheme="http://maliquankai.com/tags/%E7%A0%81%E5%8A%9B%E5%85%A8%E5%BC%80/"/>
-    
-      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
     
   </entry>
   
