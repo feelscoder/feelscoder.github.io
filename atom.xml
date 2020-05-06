@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maliquankai.com/"/>
-  <updated>2020-05-01T05:57:14.182Z</updated>
+  <updated>2020-05-06T17:30:37.350Z</updated>
   <id>http://maliquankai.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一个免费创建完美调色板的生成器</title>
+    <link href="http://maliquankai.com/2020/05/07/2020-05-07-colors-dopely/"/>
+    <id>http://maliquankai.com/2020/05/07/2020-05-07-colors-dopely/</id>
+    <published>2020-05-07T05:21:01.000Z</published>
+    <updated>2020-05-06T17:30:37.350Z</updated>
+    
+    <content type="html"><![CDATA[<p>大家好，我是独立开发者Larry，今天发现<strong>一个免费创建完美调色板的生成器 - colors.dopely，功能强大，它提供了超多的配色，可以从图片中提取颜色，并自动组合完美的配色，同时鼠标移动到图片指定位置可以手动吸色，调色板支持导出PNG、PDF、SCSS、SVG等格式</strong>。</p><p>colors.dopely网站目前还在测试阶段，大家可以来仔细玩一玩。</p><h3 id="colors-dopely"><a href="#colors-dopely" class="headerlink" title="colors.dopely"></a><a href="https://colors.dopely.top" target="_blank" rel="noopener">colors.dopely</a></h3><p>网址：<a href="https://colors.dopely.top" target="_blank" rel="noopener">https://colors.dopely.top</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%88%9B%E5%BB%BA%E5%AE%8C%E7%BE%8E%E8%B0%83%E8%89%B2%E6%9D%BF%E7%9A%84%E7%94%9F%E6%88%90%E5%99%A8/1.jpg" alt=""></p><p>打开网站，在<strong>几秒钟内创建、保存和共享完美的调色板，而且它是完全免费的调色板生成器</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%88%9B%E5%BB%BA%E5%AE%8C%E7%BE%8E%E8%B0%83%E8%89%B2%E6%9D%BF%E7%9A%84%E7%94%9F%E6%88%90%E5%99%A8/2.png" alt=""></p><p>colors.dopely支持很多功能，比如：<strong>从图像中选取起始颜色并自动获得完美的组合 / 通过调节温度、色相、饱和度、亮度等来精确自定义颜色 / 支持导出PNG、PDF、SCSS、SVG等格式</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%88%9B%E5%BB%BA%E5%AE%8C%E7%BE%8E%E8%B0%83%E8%89%B2%E6%9D%BF%E7%9A%84%E7%94%9F%E6%88%90%E5%99%A8/3.png" alt=""></p><p>colors.dopely<strong>提供了495个出色的调色板，可以按颜色代码、颜色名称和标签进行搜索</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%88%9B%E5%BB%BA%E5%AE%8C%E7%BE%8E%E8%B0%83%E8%89%B2%E6%9D%BF%E7%9A%84%E7%94%9F%E6%88%90%E5%99%A8/4.png" alt=""></p><p>同时，还提供了<strong>数千种配色方案，可以按照最受欢迎和最近更新的排序进行筛选</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%88%9B%E5%BB%BA%E5%AE%8C%E7%BE%8E%E8%B0%83%E8%89%B2%E6%9D%BF%E7%9A%84%E7%94%9F%E6%88%90%E5%99%A8/5.jpg" alt=""></p><p>点击任意一个配色方案，<strong>即可进入到配色详情，你可以直接复制色值或者点击色值进行修改</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%88%9B%E5%BB%BA%E5%AE%8C%E7%BE%8E%E8%B0%83%E8%89%B2%E6%9D%BF%E7%9A%84%E7%94%9F%E6%88%90%E5%99%A8/7.png" alt=""></p><p>鼠标放到配色上，点击调整按钮，<strong>可以调整颜色的色调、饱和度、亮度等等</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%88%9B%E5%BB%BA%E5%AE%8C%E7%BE%8E%E8%B0%83%E8%89%B2%E6%9D%BF%E7%9A%84%E7%94%9F%E6%88%90%E5%99%A8/9.jpg" alt=""></p><p>色值底部对应的圆形渐变，<strong>可以根据想要的效果修改渐变的角度，调整完成后，点击保存即可</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%88%9B%E5%BB%BA%E5%AE%8C%E7%BE%8E%E8%B0%83%E8%89%B2%E6%9D%BF%E7%9A%84%E7%94%9F%E6%88%90%E5%99%A8/6.jpg" alt=""></p><p>底部导航点击相机图标，即可选择图片，<strong>它会自动识别图片中的颜色，另外，鼠标移动到图片指定位置可以手动吸色</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%88%9B%E5%BB%BA%E5%AE%8C%E7%BE%8E%E8%B0%83%E8%89%B2%E6%9D%BF%E7%9A%84%E7%94%9F%E6%88%90%E5%99%A8/8.jpg" alt=""></p><p>最后，它支持导出6种格式，分别是<strong>PNG、PDF、SCSS、SVG、URL、JPG</strong>。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;大家好，我是独立开发者Larry，今天发现&lt;strong&gt;一个免费创建完美调色板的生成器 - colors.dopely，功能强大，它提供了超多的配色，可以从图片中提取颜色，并自动组合完美的配色，同时鼠标移动到图片指定位置可以手动吸色，调色板支持导出PNG、PDF、SCSS
+      
+    
+    </summary>
+    
+      <category term="配色网站" scheme="http://maliquankai.com/categories/%E9%85%8D%E8%89%B2%E7%BD%91%E7%AB%99/"/>
+    
+    
+      <category term="配色网站" scheme="http://maliquankai.com/tags/%E9%85%8D%E8%89%B2%E7%BD%91%E7%AB%99/"/>
+    
+      <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
   
   <entry>
     <title>HomeTime - 余生很长，留点时间陪伴家人</title>
@@ -538,33 +565,6 @@
       <category term="插画素材" scheme="http://maliquankai.com/tags/%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/"/>
     
       <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>两个配色神器轻松提取画面配色</title>
-    <link href="http://maliquankai.com/2020/03/01/2020-03-01-color-image/"/>
-    <id>http://maliquankai.com/2020/03/01/2020-03-01-color-image/</id>
-    <published>2020-03-01T05:08:01.000Z</published>
-    <updated>2020-04-01T10:44:19.063Z</updated>
-    
-    <content type="html"><![CDATA[<p>大家好，我是独立开发者Larry～今天<strong>推荐两个不错的配色神器，一个是ImageHues</strong>，它是<strong>从upslash网站里精选了一些摄影作品，提取了画面配色，可以复制色号，另外一个是Color Palette Generator，上传图片即可获取配色</strong>。</p><p>这个<strong>Color Palette Generator不仅有上传图片获取配色的功能，也有调色板的功能，提供了众多配色组合</strong>。</p><h3 id="ImageHues"><a href="#ImageHues" class="headerlink" title="ImageHues"></a>ImageHues</h3><p>网站地址：<a href="https://imagehues.com" target="_blank" rel="noopener">https://imagehues.com</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%A4%E4%B8%AA%E9%85%8D%E8%89%B2%E7%A5%9E%E5%99%A8%E8%BD%BB%E6%9D%BE%E6%8F%90%E5%8F%96%E7%94%BB%E9%9D%A2%E9%85%8D%E8%89%B2/1.jpg" alt=""></p><p>打开网站，就可以看到来自<strong>随机美丽图像的新鲜调色板，每个图片都提取了对应的画面配色，点击对应的色值即可复制色号</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%A4%E4%B8%AA%E9%85%8D%E8%89%B2%E7%A5%9E%E5%99%A8%E8%BD%BB%E6%9D%BE%E6%8F%90%E5%8F%96%E7%94%BB%E9%9D%A2%E9%85%8D%E8%89%B2/2.jpg" alt=""></p><p><strong>鼠标移动到对应的图片上，它就会出现喜欢的心形按钮</strong>，无需注册登录点击即可收藏。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%A4%E4%B8%AA%E9%85%8D%E8%89%B2%E7%A5%9E%E5%99%A8%E8%BD%BB%E6%9D%BE%E6%8F%90%E5%8F%96%E7%94%BB%E9%9D%A2%E9%85%8D%E8%89%B2/3.jpg" alt=""></p><p>点击右上的Favourites，即可看到<strong>收藏的画面配色，鼠标移动到图片上出现叉号图标，点击即可移出收藏夹</strong>。</p><h3 id="Color-Palette-Generator"><a href="#Color-Palette-Generator" class="headerlink" title="Color Palette Generator"></a>Color Palette Generator</h3><p>网站地址：<a href="https://www.canva.com/colors/color-palette-generator" target="_blank" rel="noopener">https://www.canva.com/colors/color-palette-generator</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%A4%E4%B8%AA%E9%85%8D%E8%89%B2%E7%A5%9E%E5%99%A8%E8%BD%BB%E6%9D%BE%E6%8F%90%E5%8F%96%E7%94%BB%E9%9D%A2%E9%85%8D%E8%89%B2/4.jpg" alt=""></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%A4%E4%B8%AA%E9%85%8D%E8%89%B2%E7%A5%9E%E5%99%A8%E8%BD%BB%E6%9D%BE%E6%8F%90%E5%8F%96%E7%94%BB%E9%9D%A2%E9%85%8D%E8%89%B2/8.jpg" alt=""></p><p>打开网站，可以看到点击上传图片的按钮，<strong>上传图片即可从照片中轻松获取图片的配色，图片下面提供了图片中的色值</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%A4%E4%B8%AA%E9%85%8D%E8%89%B2%E7%A5%9E%E5%99%A8%E8%BD%BB%E6%9D%BE%E6%8F%90%E5%8F%96%E7%94%BB%E9%9D%A2%E9%85%8D%E8%89%B2/5.jpg" alt=""></p><p>除了上传图片可以获取配色外，它还有<strong>创建漂亮的设计和无穷无尽的调色板，提供了众多颜色组合资源</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%A4%E4%B8%AA%E9%85%8D%E8%89%B2%E7%A5%9E%E5%99%A8%E8%BD%BB%E6%9D%BE%E6%8F%90%E5%8F%96%E7%94%BB%E9%9D%A2%E9%85%8D%E8%89%B2/6.png" alt=""></p><p>点击进去调色板功能，可以看到众多颜色的组合，点击其中的一个<strong>颜色组合即可看到配色对应的图片资源，也可以看到对应的点赞数</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%A4%E4%B8%AA%E9%85%8D%E8%89%B2%E7%A5%9E%E5%99%A8%E8%BD%BB%E6%9D%BE%E6%8F%90%E5%8F%96%E7%94%BB%E9%9D%A2%E9%85%8D%E8%89%B2/7.jpg" alt=""></p><p>另外，它还提供了颜色含义的功能，<strong>可以浏览颜色列表并了解每个颜色的意义，同时也可以搜索颜色名称</strong>。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，访问<a href="https://www.maliquankai.cn" target="_blank" rel="noopener">码力全开大学堂</a>领取好礼，如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;大家好，我是独立开发者Larry～今天&lt;strong&gt;推荐两个不错的配色神器，一个是ImageHues&lt;/strong&gt;，它是&lt;strong&gt;从upslash网站里精选了一些摄影作品，提取了画面配色，可以复制色号，另外一个是Color Palette Generator，上
-      
-    
-    </summary>
-    
-      <category term="配色网站" scheme="http://maliquankai.com/categories/%E9%85%8D%E8%89%B2%E7%BD%91%E7%AB%99/"/>
-    
-    
-      <category term="配色网站" scheme="http://maliquankai.com/tags/%E9%85%8D%E8%89%B2%E7%BD%91%E7%AB%99/"/>
-    
-      <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
     
   </entry>
   
