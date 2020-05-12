@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maliquankai.com/"/>
-  <updated>2020-05-08T17:51:36.985Z</updated>
+  <updated>2020-05-12T17:38:24.734Z</updated>
   <id>http://maliquankai.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一个700+开源的CSS、SVG、Figma的UI图标库</title>
+    <link href="http://maliquankai.com/2020/05/11/2020-05-11-css-icon/"/>
+    <id>http://maliquankai.com/2020/05/11/2020-05-11-css-icon/</id>
+    <published>2020-05-11T15:21:01.000Z</published>
+    <updated>2020-05-12T17:38:24.734Z</updated>
+    
+    <content type="html"><![CDATA[<p>大家好，我是独立开发者Larry，今天发现<strong>一个700+开源的CSS、SVG、Figma的UI图标库，GitHub上已经收获4284个Star，网站上可以直接下载.xd、.svg、.css、.scss、json等格式的图标，支持在线调整大小、改颜色、导出/复制CSS样式</strong>。</p><h3 id="css-gg"><a href="#css-gg" class="headerlink" title="css.gg"></a><a href="https://css.gg" target="_blank" rel="noopener">css.gg</a></h3><p>网址：<a href="https://css.gg" target="_blank" rel="noopener">https://css.gg</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA700%2B%E5%BC%80%E6%BA%90%E7%9A%84CSS%E3%80%81SVG%E3%80%81Figma%E7%9A%84UI%E5%9B%BE%E6%A0%87%E5%BA%93/1.jpg" alt=""></p><p>打开网站，大标题就是<strong>700+开源的CSS、SVG、Figma的UI图标库，GitHub上已经收获4284个Star，开源库的大小316kb</strong>，提供了查看所有图标的入口。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA700%2B%E5%BC%80%E6%BA%90%E7%9A%84CSS%E3%80%81SVG%E3%80%81Figma%E7%9A%84UI%E5%9B%BE%E6%A0%87%E5%BA%93/2.jpg" alt=""></p><p>往下翻，可以看到它可用于<strong>.css、.svg、.tsx、.fig、.xd、.json、.xml等格式，这些精巧、精确的图标依附于组织良好的Figma组件库</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA700%2B%E5%BC%80%E6%BA%90%E7%9A%84CSS%E3%80%81SVG%E3%80%81Figma%E7%9A%84UI%E5%9B%BE%E6%A0%87%E5%BA%93/3.png" alt=""></p><p>点击查看所有图标，左侧提供了<strong>14个分类，有箭头、按钮、代码、设计、多媒体、音乐、形状等等</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA700%2B%E5%BC%80%E6%BA%90%E7%9A%84CSS%E3%80%81SVG%E3%80%81Figma%E7%9A%84UI%E5%9B%BE%E6%A0%87%E5%BA%93/4.png" alt=""></p><p>点击左侧顶部的按钮可以隐藏左侧栏，同时右侧会出现<strong>调整参数的功能入口，比如：可以改变图标大小的size以及颜色和下载入口</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA700%2B%E5%BC%80%E6%BA%90%E7%9A%84CSS%E3%80%81SVG%E3%80%81Figma%E7%9A%84UI%E5%9B%BE%E6%A0%87%E5%BA%93/5.png" alt=""></p><p>点击任意一个图标进入到图标详情，这里提供了默认<strong>5种颜色可以修改，同时支持导出/复制CSS/SVG/TSX样式，右侧同样提供了下载入口</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA700%2B%E5%BC%80%E6%BA%90%E7%9A%84CSS%E3%80%81SVG%E3%80%81Figma%E7%9A%84UI%E5%9B%BE%E6%A0%87%E5%BA%93/6.png" alt=""></p><p>点击顶部的GitHub入口即可进入图标的开源库，<strong>目前已经收获4284个Star，GitHub上介绍了如何使用这些图标运用到项目中</strong>。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;大家好，我是独立开发者Larry，今天发现&lt;strong&gt;一个700+开源的CSS、SVG、Figma的UI图标库，GitHub上已经收获4284个Star，网站上可以直接下载.xd、.svg、.css、.scss、json等格式的图标，支持在线调整大小、改颜色、导出/复制
+      
+    
+    </summary>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/categories/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="图标网站" scheme="http://maliquankai.com/tags/%E5%9B%BE%E6%A0%87%E7%BD%91%E7%AB%99/"/>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
   
   <entry>
     <title>HomeTime - 余生很长，留点时间陪伴家人</title>
@@ -64,9 +91,9 @@
       <category term="配色网站" scheme="http://maliquankai.com/categories/%E9%85%8D%E8%89%B2%E7%BD%91%E7%AB%99/"/>
     
     
-      <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
-    
       <category term="配色网站" scheme="http://maliquankai.com/tags/%E9%85%8D%E8%89%B2%E7%BD%91%E7%AB%99/"/>
+    
+      <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
     
   </entry>
   
@@ -536,33 +563,6 @@
     
     
       <category term="配色网站" scheme="http://maliquankai.com/tags/%E9%85%8D%E8%89%B2%E7%BD%91%E7%AB%99/"/>
-    
-      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>推荐4个新发现的高质量插画素材</title>
-    <link href="http://maliquankai.com/2020/03/02/2020-03-02-design-illustrations/"/>
-    <id>http://maliquankai.com/2020/03/02/2020-03-02-design-illustrations/</id>
-    <published>2020-03-02T05:08:01.000Z</published>
-    <updated>2020-03-01T17:40:15.470Z</updated>
-    
-    <content type="html"><![CDATA[<p>大家好，我是独立开发者Larry～今天<strong>推荐4个不错的插画素材网站，质量都还不错，第一个是Abstrakt.Design的抽象插画，第二个是Agent002的法国插画网站，第三个是It’s Nice That分享国内外优秀的插画作品，最后一个是n8w聚集优秀插画家作品的网站</strong>。</p><h3 id="Abstrakt-Design"><a href="#Abstrakt-Design" class="headerlink" title="Abstrakt.Design"></a>Abstrakt.Design</h3><p>网站地址：<a href="https://www.abstrakt.design/all-illustrations" target="_blank" rel="noopener">https://www.abstrakt.design/all-illustrations</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%904%E4%B8%AA%E6%96%B0%E5%8F%91%E7%8E%B0%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/1.jpg" alt=""></p><p>打开网站，可以看到<strong>这里提供了122个抽象插画</strong>，会员可以下载所有的抽象插画，<strong>有SVG和PNG文件格式，可以免费下载53个png格式的抽象插画，使用需要注明出处</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%904%E4%B8%AA%E6%96%B0%E5%8F%91%E7%8E%B0%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/2.jpg" alt=""></p><p>往下翻即可看到网站上提供的抽象插画，<strong>有的插画素材提供了对应的名称，比如这个家庭的抽象插画</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%904%E4%B8%AA%E6%96%B0%E5%8F%91%E7%8E%B0%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/3.jpg" alt=""></p><p>这里还提供了<strong>其它元素的抽象插画，比如旱冰鞋、滑板、自行车等等</strong>。</p><p>点击顶部的<strong>Free DownLoad即可下载提供的免费抽象插画，公众号后台回复「abstrakt」即可免费下载打包好的插画资源</strong>。</p><h3 id="Agent002"><a href="#Agent002" class="headerlink" title="Agent002"></a>Agent002</h3><p>网站地址：<a href="https://www.agent002.com" target="_blank" rel="noopener">https://www.agent002.com</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%904%E4%B8%AA%E6%96%B0%E5%8F%91%E7%8E%B0%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/4.jpg" alt=""></p><p><strong>这是一个法国的一个插画网站</strong>，Agent002 创立于1999年，有众多法国插画师们的一系列作品，以及博客。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%904%E4%B8%AA%E6%96%B0%E5%8F%91%E7%8E%B0%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/5.jpg" alt=""></p><p>点击任意一个插画图片，<strong>进去后会有更多插画师提供的插画作品，插画的风格丰富多彩、积极向上</strong>。</p><h3 id="It’s-Nice-That"><a href="#It’s-Nice-That" class="headerlink" title="It’s Nice That"></a>It’s Nice That</h3><p>网站地址：<a href="https://www.itsnicethat.com/illustration" target="_blank" rel="noopener">https://www.itsnicethat.com/illustration</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%904%E4%B8%AA%E6%96%B0%E5%8F%91%E7%8E%B0%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/6.jpg" alt=""></p><p><strong>这是一个分享国内外优秀的插画作品</strong>，It’s Nice That创意设计艺术社区是一个倡导创意融合艺术设计的世界，<strong>每天更新来自世界各地的创意作品，深度发掘和发现最有趣的创意项目</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%904%E4%B8%AA%E6%96%B0%E5%8F%91%E7%8E%B0%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/7.jpg" alt=""></p><p>从手绘到数字，从2D到3D，<strong>在这里展示出色的插图画家及其鼓舞人心的作品</strong>。</p><h3 id="n8w"><a href="#n8w" class="headerlink" title="n8w"></a>n8w</h3><p>网站地址：<a href="https://www.n8w.com" target="_blank" rel="noopener">https://www.n8w.com</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%904%E4%B8%AA%E6%96%B0%E5%8F%91%E7%8E%B0%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/8.jpg" alt=""></p><p><strong>这是一个聚集优秀插画家作品的网站</strong>，Nate Williams 是美国西部的一位艺术设计总监，他为杂志、书本、包装、广告和产品设计插画和手绘字体，<strong>他的个人网站n8w记录了很多作品的灵感和实现过程</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%904%E4%B8%AA%E6%96%B0%E5%8F%91%E7%8E%B0%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/9.jpg" alt=""></p><p>从手绘到数字，从2D到3D，<strong>在这里展示出色的插图画家及其鼓舞人心的作品</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%904%E4%B8%AA%E6%96%B0%E5%8F%91%E7%8E%B0%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/10.jpg" alt=""></p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，访问<a href="https://www.maliquankai.cn" target="_blank" rel="noopener">码力全开大学堂</a>领取好礼，如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;大家好，我是独立开发者Larry～今天&lt;strong&gt;推荐4个不错的插画素材网站，质量都还不错，第一个是Abstrakt.Design的抽象插画，第二个是Agent002的法国插画网站，第三个是It’s Nice That分享国内外优秀的插画作品，最后一个是n8w聚集优秀插
-      
-    
-    </summary>
-    
-      <category term="设计资源" scheme="http://maliquankai.com/categories/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
-    
-    
-      <category term="插画素材" scheme="http://maliquankai.com/tags/%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/"/>
     
       <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
     
