@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maliquankai.com/"/>
-  <updated>2020-05-28T15:30:57.941Z</updated>
+  <updated>2020-06-01T16:53:12.159Z</updated>
   <id>http://maliquankai.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一个基于Web的设计资产编辑器</title>
+    <link href="http://maliquankai.com/2020/06/02/2020-06-01-web-artify/"/>
+    <id>http://maliquankai.com/2020/06/02/2020-06-01-web-artify/</id>
+    <published>2020-06-02T14:22:01.000Z</published>
+    <updated>2020-06-01T16:53:12.159Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，最近新发现了一个基于Web的设计编辑器 — Artify-Editor，它每周都会更新自己的设计资产库，目前包含了200万个图标、3k插画、3K样机，还有其它的一些图案、海报、产品图等24个分类。</p></blockquote><p><strong>登录用户可以免费下载中等质量的PNG和JPG格式</strong>，它也是ProductHunt上当天排名第二的产品。</p><h3 id="Artify-Editor"><a href="#Artify-Editor" class="headerlink" title="Artify-Editor"></a><a href="https://www.artify.co" target="_blank" rel="noopener">Artify-Editor</a></h3><p>网址：<a href="https://www.artify.co" target="_blank" rel="noopener">https://www.artify.co</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8EWeb%E7%9A%84%E8%AE%BE%E8%AE%A1%E8%B5%84%E4%BA%A7%E7%BC%96%E8%BE%91%E5%99%A8/artify1.png" alt=""></p><p>打开网站，可以看到Artify的介绍，大标题<strong>在创纪录的时间内，创造出非凡的设计</strong>，同时介绍了artify提供的设计资产。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8EWeb%E7%9A%84%E8%AE%BE%E8%AE%A1%E8%B5%84%E4%BA%A7%E7%BC%96%E8%BE%91%E5%99%A8/artify.png" alt=""></p><p>点击<strong>Meet Our Gallery按钮</strong>，即可进入全部的设计资产页面，<strong>这里提供了24个设计资产分类</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8EWeb%E7%9A%84%E8%AE%BE%E8%AE%A1%E8%B5%84%E4%BA%A7%E7%BC%96%E8%BE%91%E5%99%A8/artify2.jpeg" alt=""></p><p>继续往下翻，可以看到不同类型的设计资产，<strong>比如：图案、海报、产品图等等</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8EWeb%E7%9A%84%E8%AE%BE%E8%AE%A1%E8%B5%84%E4%BA%A7%E7%BC%96%E8%BE%91%E5%99%A8/artify3.jpeg" alt=""></p><p>点击首页的<strong>Try Artify Editor或设计资产页面的Live Eidt按钮</strong>，即可进入设计资产编辑页面。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8EWeb%E7%9A%84%E8%AE%BE%E8%AE%A1%E8%B5%84%E4%BA%A7%E7%BC%96%E8%BE%91%E5%99%A8/artify4.jpeg" alt=""></p><p><strong>编辑器页面提供了超多的参数</strong>，你可以调整插图的<strong>位置、大小、透明度等等</strong>，也可以修改字体的颜色、大小等等。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8EWeb%E7%9A%84%E8%AE%BE%E8%AE%A1%E8%B5%84%E4%BA%A7%E7%BC%96%E8%BE%91%E5%99%A8/artify5.jpeg" alt=""></p><p>同时还可以创建一个工程，<strong>往提供的设计图上添加不同的图层，功能相当强大</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8EWeb%E7%9A%84%E8%AE%BE%E8%AE%A1%E8%B5%84%E4%BA%A7%E7%BC%96%E8%BE%91%E5%99%A8/artify6.jpg" alt=""></p><p>最后，<strong>编辑器里还提供了一些配色库</strong>，你可以用这些颜色填充背景。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，最近新发现了一个基于Web的设计编辑器 — Artify-Editor，它每周都会更新自己的设计资产库，目前包含了200万个图标、3k插画、3K样机，还有其它的一些图案、海报、产品图等24个分类。&lt;/p&gt;
+&lt;/bl
+      
+    
+    </summary>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/categories/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
   
   <entry>
     <title>独立开发的这些年思绪万千</title>
@@ -546,34 +575,6 @@
       <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
     
       <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>创建美丽、独特的免版权背景图案</title>
-    <link href="http://maliquankai.com/2020/03/17/2020-03-17-beautifuldingbats/"/>
-    <id>http://maliquankai.com/2020/03/17/2020-03-17-beautifuldingbats/</id>
-    <published>2020-03-17T04:10:01.000Z</published>
-    <updated>2020-03-17T08:06:44.948Z</updated>
-    
-    <content type="html"><![CDATA[<p>大家好，我是独立开发者Larry～今天给大家<strong>推荐一个聚集了很多小工具的网站Beautiful Dingbats，网站上有背景图案生成器、花式字体生成器、日历生成器、小故障文本生成器、表情符号等等</strong>。</p><p>今天重点介绍一下背景图案生成器，以前文章推荐过<a href="https://www.maliquankai.com/2019/06/28/2019-06-28-design-bg/" target="_blank" rel="noopener"><strong>好的背景可以让你的设计更出彩</strong></a>，这里推荐了几个背景素材，感兴趣的也可以去<a href="https://design.maliquankai.com" target="_blank" rel="noopener"><strong>码力全开资源站</strong></a>查看背景素材分类，<strong>这里收录了16个背景素材网站</strong>。</p><h3 id="Beautiful-Dingbats"><a href="#Beautiful-Dingbats" class="headerlink" title="Beautiful Dingbats"></a>Beautiful Dingbats</h3><p>网址：<a href="https://beautifuldingbats.com" target="_blank" rel="noopener">https://beautifuldingbats.com</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E3%80%81%E7%8B%AC%E7%89%B9%E7%9A%84%E5%85%8D%E7%89%88%E6%9D%83%E8%83%8C%E6%99%AF%E5%9B%BE%E6%A1%88/1.jpg" alt=""></p><p>打开网站，可以看到<strong>一个背景图案生成器，用它可以创建独特、漂亮的免版权背景图案，可以导出SVG、JPEG、PNG格式</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E3%80%81%E7%8B%AC%E7%89%B9%E7%9A%84%E5%85%8D%E7%89%88%E6%9D%83%E8%83%8C%E6%99%AF%E5%9B%BE%E6%A1%88/2.jpg" alt=""></p><p>接着下面是Unicode工具，这里面包含了<strong>花式字体生成器、日历生成器、小故障文本生成器、删除线生成器等等</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E3%80%81%E7%8B%AC%E7%89%B9%E7%9A%84%E5%85%8D%E7%89%88%E6%9D%83%E8%83%8C%E6%99%AF%E5%9B%BE%E6%A1%88/9.png" alt=""></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E3%80%81%E7%8B%AC%E7%89%B9%E7%9A%84%E5%85%8D%E7%89%88%E6%9D%83%E8%83%8C%E6%99%AF%E5%9B%BE%E6%A1%88/11.png" alt=""></p><p>这里还提供了<strong>Emojis表情相关的符号</strong>，有很多不同的类型符号，比如<strong>雪花、星星等等，可以直接复制这些符号</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E3%80%81%E7%8B%AC%E7%89%B9%E7%9A%84%E5%85%8D%E7%89%88%E6%9D%83%E8%83%8C%E6%99%AF%E5%9B%BE%E6%A1%88/10.jpg" alt=""></p><p>接下来<strong>重点看一下背景图案生成器</strong>，点进去背景图案生成器，可以看到提供了<strong>一些随机的图案例子，点击右侧会生成不同的图案</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E3%80%81%E7%8B%AC%E7%89%B9%E7%9A%84%E5%85%8D%E7%89%88%E6%9D%83%E8%83%8C%E6%99%AF%E5%9B%BE%E6%A1%88/3.jpg" alt=""></p><p>选择好一个图案，点击开始使用按钮即可<strong>进入编辑图案的界面，这里提供了图案相关的一些条纹可以选择</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E3%80%81%E7%8B%AC%E7%89%B9%E7%9A%84%E5%85%8D%E7%89%88%E6%9D%83%E8%83%8C%E6%99%AF%E5%9B%BE%E6%A1%88/4.jpg" alt=""></p><p>这里提供了很多<strong>参数可以调整图案，比如改变图案上的形状大小，从0到20自定义调整</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E3%80%81%E7%8B%AC%E7%89%B9%E7%9A%84%E5%85%8D%E7%89%88%E6%9D%83%E8%83%8C%E6%99%AF%E5%9B%BE%E6%A1%88/5.png" alt=""></p><p><strong>图案上的拼贴比例</strong>从5到100也可以调整，以及<strong>图案的旋转方向从0到360</strong>，还有<strong>图案的颜色可以自定义色值</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E3%80%81%E7%8B%AC%E7%89%B9%E7%9A%84%E5%85%8D%E7%89%88%E6%9D%83%E8%83%8C%E6%99%AF%E5%9B%BE%E6%A1%88/6.png" alt=""></p><p>另外，还可以<strong>自定义图案的辅助颜色以及图案的背景颜色，同时颜色还可以左右切换不同的类型</strong>，比如Material Design类型的色值。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E3%80%81%E7%8B%AC%E7%89%B9%E7%9A%84%E5%85%8D%E7%89%88%E6%9D%83%E8%83%8C%E6%99%AF%E5%9B%BE%E6%A1%88/7.png" alt=""></p><p>最后调整好一个<strong>满意的背景图案，可以复制链接进行分享，也可以将图案导出SVG、JPEG或PNG格式，同时导出的图案还可以自定义尺寸</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E3%80%81%E7%8B%AC%E7%89%B9%E7%9A%84%E5%85%8D%E7%89%88%E6%9D%83%E8%83%8C%E6%99%AF%E5%9B%BE%E6%A1%88/8.png" alt=""></p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，访问<a href="https://www.maliquankai.cn" target="_blank" rel="noopener">码力全开大学堂</a>领取好礼，如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;大家好，我是独立开发者Larry～今天给大家&lt;strong&gt;推荐一个聚集了很多小工具的网站Beautiful Dingbats，网站上有背景图案生成器、花式字体生成器、日历生成器、小故障文本生成器、表情符号等等&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;今天重点介绍一下背景图案生成
-      
-    
-    </summary>
-    
-      <category term="设计资源" scheme="http://maliquankai.com/categories/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
-    
-    
-      <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
-    
-      <category term="背景网站" scheme="http://maliquankai.com/tags/%E8%83%8C%E6%99%AF%E7%BD%91%E7%AB%99/"/>
     
   </entry>
   
