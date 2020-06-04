@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maliquankai.com/"/>
-  <updated>2020-06-01T16:53:12.159Z</updated>
+  <updated>2020-06-04T05:35:38.811Z</updated>
   <id>http://maliquankai.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HomeTime近期功能一览</title>
+    <link href="http://maliquankai.com/2020/06/04/2020-06-04-hometime-tips/"/>
+    <id>http://maliquankai.com/2020/06/04/2020-06-04-hometime-tips/</id>
+    <published>2020-06-04T05:22:01.000Z</published>
+    <updated>2020-06-04T05:35:38.811Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，近期HomeTime版本更新的节奏比较快，有必要和大家来聊一聊这款产品迭代更新了哪些新功能？另外，如果你正在使用HomeTime，欢迎评论区来聊一聊你最想要的功能或者你觉得应该优化和改进的地方。</p></blockquote><p>目前的版本情况：HomeTime上线3周迭代了11个版本，<strong>最新版V1.1.2已更新至AppStore</strong>，AppStore搜索HomeTime即可下载体验。</p><h3 id="HomeTime"><a href="#HomeTime" class="headerlink" title="HomeTime"></a><a href="https://apps.apple.com/cn/app/hometime-余生很长-留点时间陪伴家人/id1505273847" target="_blank" rel="noopener">HomeTime</a></h3><p><strong>新版的HomeTime，近期更新的新Features：</strong></p><p><strong>1. 首页新增动情一刻栏目</strong>，每次版本迭代此栏目会不定期新增一些关于父母/亲人的名言警句。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/HomeTime%E8%BF%91%E6%9C%9F%E5%8A%9F%E8%83%BD%E4%B8%80%E8%A7%88/1_%E5%8A%A8%E6%83%85%E4%B8%80%E5%88%BB.png" alt=""></p><p>动情一刻可以对外分享，分享的时候可以选择相册里的图片。</p><p><strong>2. 余生陪伴支持自定义家庭成员</strong>，选择后的家庭成员支持长按操作（可以选择系统或已添加的事项）。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/HomeTime%E8%BF%91%E6%9C%9F%E5%8A%9F%E8%83%BD%E4%B8%80%E8%A7%88/2_%E4%BD%99%E7%94%9F%E9%99%AA%E4%BC%B4.png" alt=""></p><p><strong>3. 支持Apple Watch</strong>，默认显示最近6个已添加的事项。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/HomeTime%E8%BF%91%E6%9C%9F%E5%8A%9F%E8%83%BD%E4%B8%80%E8%A7%88/3_%E6%94%AF%E6%8C%81appwatch.png" alt=""></p><p><strong>4. 首页家庭成员点击昵称可以设置/查看每个家庭成员对应的余生陪伴信息</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/HomeTime%E8%BF%91%E6%9C%9F%E5%8A%9F%E8%83%BD%E4%B8%80%E8%A7%88/4_%E7%82%B9%E5%87%BB%E6%98%B5%E7%A7%B0.png" alt=""></p><p><strong>5. 余生陪伴会记住设置过的家庭成员的出生日期和寿命</strong>，每次切换家庭成员自动填充设置过的日期和寿命。</p><p><strong>6. 添加了一个新的主题清新 - 绿</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/HomeTime%E8%BF%91%E6%9C%9F%E5%8A%9F%E8%83%BD%E4%B8%80%E8%A7%88/6_%E6%96%B0%E5%A2%9E%E4%B8%BB%E9%A2%98.png" alt=""></p><p><strong>7. 丰富了一些头像库和事项</strong>。</p><p><strong>8. 跟随系统语言自动适配英文和中文繁体</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/HomeTime%E8%BF%91%E6%9C%9F%E5%8A%9F%E8%83%BD%E4%B8%80%E8%A7%88/8_%E9%80%82%E9%85%8D%E8%AF%AD%E8%A8%80.png" alt=""></p><p><strong>9. 用户体验改进和Bug修复</strong>。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，近期HomeTime版本更新的节奏比较快，有必要和大家来聊一聊这款产品迭代更新了哪些新功能？另外，如果你正在使用HomeTime，欢迎评论区来聊一聊你最想要的功能或者你觉得应该优化和改进的地方。&lt;/p&gt;
+&lt;/blo
+      
+    
+    </summary>
+    
+      <category term="个人作品" scheme="http://maliquankai.com/categories/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="码力全开" scheme="http://maliquankai.com/tags/%E7%A0%81%E5%8A%9B%E5%85%A8%E5%BC%80/"/>
+    
+      <category term="个人作品" scheme="http://maliquankai.com/tags/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+  </entry>
   
   <entry>
     <title>一个基于Web的设计资产编辑器</title>
@@ -546,33 +575,6 @@
     
     
       <category term="插画素材" scheme="http://maliquankai.com/tags/%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/"/>
-    
-      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>推荐一个免费开源的表情符号大全</title>
-    <link href="http://maliquankai.com/2020/03/19/2020-03-19-openmoji/"/>
-    <id>http://maliquankai.com/2020/03/19/2020-03-19-openmoji/</id>
-    <published>2020-03-19T08:59:01.000Z</published>
-    <updated>2020-03-19T09:31:35.168Z</updated>
-    
-    <content type="html"><![CDATA[<p>大家好，我是独立开发者Larry～今天给<strong>推荐一个免费开源的表情符号大全OpenMoji，OpenMoji是面向设计师、开发人员和其他所有人的开源表情符号，到目前为止，已经设计了超过3000种不同类别的表情符号，提供了彩色和单色的SVG、PNG格式</strong>。</p><p>另外，<a href="https://design.maliquankai.com" target="_blank" rel="noopener"><strong>码力全开资源站</strong></a>查看表情设计分类，<strong>这里收录了10个表情素材网站</strong>。</p><h3 id="OpenMoji"><a href="#OpenMoji" class="headerlink" title="OpenMoji"></a>OpenMoji</h3><p>网址：<a href="https://openmoji.org" target="_blank" rel="noopener">https://openmoji.org</a></p><video controls preload="none" poster="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%BC%80%E6%BA%90%E7%9A%84%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7%E5%A4%A7%E5%85%A8/video_poster.png" width="810" height="450"><br><source src="https://player.vimeo.com/video/336126508" type="video/mp4"><br></video><p>打开网站，可以看到<strong>众多面向设计师、开发人员、其他所有人的开源表情符号</strong>，这里还提供了搜索框方便你直接搜索想要的表情。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%BC%80%E6%BA%90%E7%9A%84%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7%E5%A4%A7%E5%85%A8/em-1.png" alt=""></p><p><strong>OpenMoji是一个开源项目</strong>，由57名学生和3名教授以及10位外部贡献者组成，<strong>目前为止已经设计了超过3000种不同类别的表情符号，可免费使用</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%BC%80%E6%BA%90%E7%9A%84%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7%E5%A4%A7%E5%85%A8/em8-1.jpg" alt=""></p><p>点击导航栏的<strong>Library即可进入到所有表情符号的分类，这里提供了10个分类</strong>，而且表情符号的质量很高。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%BC%80%E6%BA%90%E7%9A%84%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7%E5%A4%A7%E5%85%A8/em2-1.png" alt=""></p><p>另外，可以点击分类<strong>右侧的开关按钮即可去掉彩色变身为黑色表情符号，同时也可以按字母和日期进行筛选排序</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%BC%80%E6%BA%90%E7%9A%84%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7%E5%A4%A7%E5%85%A8/em5-1.png" alt=""></p><p>每个分类除了提供很多类型的表情符号外，<strong>这里还提供了两个扩展的OpenMoji，任意点击一个就可以看到不同类型的彩色图标，很精致</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%BC%80%E6%BA%90%E7%9A%84%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7%E5%A4%A7%E5%85%A8/em3-1.png" alt=""></p><p>选择一个满意的表情符号，直接点击就会弹框显示现在的入口，<strong>这里提供了SVG、PNG格式，同时还可以切换彩色和黑色表情符号</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%BC%80%E6%BA%90%E7%9A%84%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7%E5%A4%A7%E5%85%A8/em4-1.png" alt=""></p><p>这里还可以加入他们一起设计新的表情符号，<strong>提供了轮廓、颜色、版式、表情符号设计的一些指南等等</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%BC%80%E6%BA%90%E7%9A%84%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7%E5%A4%A7%E5%85%A8/em6-1.png" alt=""></p><p>最后可以点击导航栏的样品入口，<strong>这里提供了一些已经完成的作品</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%BC%80%E6%BA%90%E7%9A%84%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7%E5%A4%A7%E5%85%A8/em7-1.png" alt=""></p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，访问<a href="https://www.maliquankai.cn" target="_blank" rel="noopener">码力全开大学堂</a>领取好礼，如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;大家好，我是独立开发者Larry～今天给&lt;strong&gt;推荐一个免费开源的表情符号大全OpenMoji，OpenMoji是面向设计师、开发人员和其他所有人的开源表情符号，到目前为止，已经设计了超过3000种不同类别的表情符号，提供了彩色和单色的SVG、PNG格式&lt;/stro
-      
-    
-    </summary>
-    
-      <category term="设计资源" scheme="http://maliquankai.com/categories/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
-    
-    
-      <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
     
       <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
     
