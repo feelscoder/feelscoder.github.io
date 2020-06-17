@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maliquankai.com/"/>
-  <updated>2020-06-15T02:56:43.663Z</updated>
+  <updated>2020-06-17T18:06:11.466Z</updated>
   <id>http://maliquankai.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>推荐三个有趣的动画生成器</title>
+    <link href="http://maliquankai.com/2020/06/17/2020-06-17-doodle-tool/"/>
+    <id>http://maliquankai.com/2020/06/17/2020-06-17-doodle-tool/</id>
+    <published>2020-06-17T15:22:01.000Z</published>
+    <updated>2020-06-17T18:06:11.466Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，最近发现了一些好玩有趣的动画生成器，这些有意思的动画生成工具推荐给大家都来玩一玩，相信一定能给你带来一些乐趣。</p></blockquote><h3 id="Wonder-of-Wonder-Art"><a href="#Wonder-of-Wonder-Art" class="headerlink" title="Wonder of Wonder Art"></a><a href="https://aidn.jp/wowa" target="_blank" rel="noopener">Wonder of Wonder Art</a></h3><p>网址：<a href="https://aidn.jp/wowa" target="_blank" rel="noopener">https://aidn.jp/wowa</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%89%E4%B8%AA%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8A%A8%E7%94%BB%E7%94%9F%E6%88%90%E5%99%A8/1.png" alt=""></p><p>打开网站，可以看到跳舞生成器Wonder of Wonder Art，<strong>它可以一键为你的沙雕涂鸦注入灵魂，无论你画什么都能让他摇摆起来</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%89%E4%B8%AA%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8A%A8%E7%94%BB%E7%94%9F%E6%88%90%E5%99%A8/2.png" alt=""></p><p>点击一下屏幕就可以看到动画效果，各种摆动、跳舞的动作挺有意思。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%89%E4%B8%AA%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8A%A8%E7%94%BB%E7%94%9F%E6%88%90%E5%99%A8/3.png" alt=""></p><p><strong>点击左上角的DRAW，就可以进入涂鸦的页面，在这里你可以任意画出你的图案，同时还支持涂色</strong>。</p><h3 id="DOODLE-PLACE"><a href="#DOODLE-PLACE" class="headerlink" title="DOODLE-PLACE"></a><a href="https://doodle-place.glitch.me" target="_blank" rel="noopener">DOODLE-PLACE</a></h3><p>网址：<a href="https://doodle-place.glitch.me" target="_blank" rel="noopener">https://doodle-place.glitch.me</a></p><p><strong>好玩的动态涂鸦画廊-doodle place</strong>，它动态展示了网友们即兴发挥的涂鸦，每一个涂鸦都是动态行走在地图当中，任何访问网站的朋友都可以轻松建立属于自己的动态涂鸦，进入网站后，按WASD或上下左右键浏览，<strong>点击右上角NEW DOODLE即可创建自己的涂鸦！</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%89%E4%B8%AA%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8A%A8%E7%94%BB%E7%94%9F%E6%88%90%E5%99%A8/4.jpg" alt=""></p><h3 id="Pose-Animator"><a href="#Pose-Animator" class="headerlink" title="Pose Animator"></a><a href="https://pose-animator-demo.firebaseapp.com" target="_blank" rel="noopener">Pose Animator</a></h3><p>网址：<a href="https://pose-animator-demo.firebaseapp.com" target="_blank" rel="noopener">https://pose-animator-demo.firebaseapp.com</a></p><p><strong>Pose Animator是一个开源项目，该项目可识别出人类的表情变化与肢体动作，并将其映射到 2D 矢量图型上，让它跟着你的节拍动起来</strong>，你可以在Chrome或Safari中从网络摄像头或单个图像进行构建。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%89%E4%B8%AA%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8A%A8%E7%94%BB%E7%94%9F%E6%88%90%E5%99%A8/5.jpg" alt=""></p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，最近发现了一些好玩有趣的动画生成器，这些有意思的动画生成工具推荐给大家都来玩一玩，相信一定能给你带来一些乐趣。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;Wonder-of-Wonder-Art&quot;&gt;&lt;a 
+      
+    
+    </summary>
+    
+      <category term="工具资源" scheme="http://maliquankai.com/categories/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
   
   <entry>
     <title>有趣的3D手势插画素材</title>
@@ -550,36 +580,6 @@
       <category term="码力全开" scheme="http://maliquankai.com/tags/%E7%A0%81%E5%8A%9B%E5%85%A8%E5%BC%80/"/>
     
       <category term="个人作品" scheme="http://maliquankai.com/tags/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2020年3月热门的超实用神器推荐</title>
-    <link href="http://maliquankai.com/2020/03/31/2020-03-31-good-tool/"/>
-    <id>http://maliquankai.com/2020/03/31/2020-03-31-good-tool/</id>
-    <published>2020-03-31T08:59:01.000Z</published>
-    <updated>2020-04-10T09:17:24.637Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry～2020年3月份分享了不少有用的神器，<strong>今天汇总整理一下3月份比较热门的效率利器，希望这些工具能够提升你的工作效率</strong>。</p></blockquote><p><strong><a href="https://design.maliquankai.com" target="_blank" rel="noopener">码力全开资源站</a>目前已收录超过410个网站，文章中的每一个神器在码力全开资源站都可以找到</strong>。</p><h3 id="RemoveBg"><a href="#RemoveBg" class="headerlink" title="RemoveBg"></a><a href="[https://www.remove.bg/zh">RemoveBg</a></h3><p>网址：<a href="https://www.remove.bg/zh" target="_blank" rel="noopener">https://www.remove.bg/zh</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/2020%E5%B9%B43%E6%9C%88%E7%83%AD%E9%97%A8%E7%9A%84%E8%B6%85%E5%AE%9E%E7%94%A8%E7%A5%9E%E5%99%A8%E6%8E%A8%E8%8D%90/1.jpg" alt=""></p><p><strong>消除图片中的背景网站removebg</strong>，它是我见过最强大的线上去背景网站，<strong>快速AI自动抠图，以训练好的模型快速分辨照片前景和背景，将主体分离后成为透明背景</strong>，对于我这种经常要做设计的业余设计师太有用了。</p><h3 id="Neumorphism-io"><a href="#Neumorphism-io" class="headerlink" title="Neumorphism.io"></a><a href="https://neumorphism.io" target="_blank" rel="noopener">Neumorphism.io</a></h3><p>网址：<a href="https://neumorphism.io" target="_blank" rel="noopener">https://neumorphism.io</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/2020%E5%B9%B43%E6%9C%88%E7%83%AD%E9%97%A8%E7%9A%84%E8%B6%85%E5%AE%9E%E7%94%A8%E7%A5%9E%E5%99%A8%E6%8E%A8%E8%8D%90/2.jpg" alt=""></p><p>新拟物化风格的Neumorphism.io效果非常不错，<strong>Neumorphism可以简单轻松地实现新拟态效果，可以任意更改颜色，形状可以在圆形、圆角矩形和方形之间切换，形状与背景的距离、阴影的强度和模糊效果等也可随意更改</strong>。</p><h3 id="MokupFrames"><a href="#MokupFrames" class="headerlink" title="MokupFrames"></a><a href="https://www.mokupframes.com" target="_blank" rel="noopener">MokupFrames</a></h3><p>网址：<a href="https://www.mokupframes.com" target="_blank" rel="noopener">https://www.mokupframes.com</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/2020%E5%B9%B43%E6%9C%88%E7%83%AD%E9%97%A8%E7%9A%84%E8%B6%85%E5%AE%9E%E7%94%A8%E7%A5%9E%E5%99%A8%E6%8E%A8%E8%8D%90/3.jpg" alt=""></p><p><strong>高逼格样机工具MokupFrames</strong>，它是一款可以快速制作样机的客户端工具，<strong>支持Windows/Mac，只需要上传准备好的图片或视频即可在不同的设备上生成渲染后的高逼格作品</strong>，提供的设备类型有iPhone、Android、PC&amp;Web，真是相当好用</p><h3 id="Unscreen"><a href="#Unscreen" class="headerlink" title="Unscreen"></a><a href="https://www.unscreen.com" target="_blank" rel="noopener">Unscreen</a></h3><p>网址：<a href="https://www.unscreen.com" target="_blank" rel="noopener">https://www.unscreen.com</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/2020%E5%B9%B43%E6%9C%88%E7%83%AD%E9%97%A8%E7%9A%84%E8%B6%85%E5%AE%9E%E7%94%A8%E7%A5%9E%E5%99%A8%E6%8E%A8%E8%8D%90/4.jpg" alt=""></p><p><strong>一个在线免费扣视频背景的神器Unscreen，支持mp4、gif、mov、.webm、.ogg格式，上传视频自动去除背景保留主体</strong>，使用后效果不错，感兴趣的可以来试试。</p><h3 id="Upscale-Pics"><a href="#Upscale-Pics" class="headerlink" title="Upscale Pics"></a><a href="https://upscalepics.com" target="_blank" rel="noopener">Upscale Pics</a></h3><p>网址：<a href="https://upscalepics.com" target="_blank" rel="noopener">https://upscalepics.com</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/2020%E5%B9%B43%E6%9C%88%E7%83%AD%E9%97%A8%E7%9A%84%E8%B6%85%E5%AE%9E%E7%94%A8%E7%A5%9E%E5%99%A8%E6%8E%A8%E8%8D%90/7.jpg" alt=""></p><p><strong>无损放大的工具Upscale Pics，它可以免费将您的图像放大2倍至8倍，使用AI算法来解决像素化问题</strong>，从而提高分辨率使模糊图片变得更清晰，无损放大的工具码力全开资源站收录了5个，我使用最多的是bigjpg。</p><h3 id="Algorithmia"><a href="#Algorithmia" class="headerlink" title="Algorithmia"></a><a href="https://demos.algorithmia.com/colorize-photos" target="_blank" rel="noopener">Algorithmia</a></h3><p>网址：<a href="https://demos.algorithmia.com/colorize-photos" target="_blank" rel="noopener">https://demos.algorithmia.com/colorize-photos</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/2020%E5%B9%B43%E6%9C%88%E7%83%AD%E9%97%A8%E7%9A%84%E8%B6%85%E5%AE%9E%E7%94%A8%E7%A5%9E%E5%99%A8%E6%8E%A8%E8%8D%90/8.jpg" alt=""></p><p><strong>一个使用AI技术给黑白照片上色的网站Algorithmia，只需要贴图片链接或直接上传本地照片即可自动对旧照片进行着色</strong>，使旧照片焕然一新，关键是Algorithmia还提供了可扩展的API供开发人员使用。</p><h3 id="Pixeltrue"><a href="#Pixeltrue" class="headerlink" title="Pixeltrue"></a><a href="https://www.pixeltrue.com/free-illustrations" target="_blank" rel="noopener">Pixeltrue</a></h3><p>网址：<a href="https://www.pixeltrue.com/free-illustrations" target="_blank" rel="noopener">https://www.pixeltrue.com/free-illustrations</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/官网/免费的插画和和Lottie动画插画素材/1.jpg" alt=""></p><p><strong>一个免费的矢量插画和Lottie动画插画素材，可免费用在个人和商业项目中，插画素材种类比较多有彩色和单色两种类型</strong>，打包好的所有插画和Lottie动画插画素材在文章详情里。</p><p><strong>PS：公众号后台回复「Pixeltrue」即可免费下载打包好的所有插画和Lottie动画插画素材</strong>。</p><h3 id="Letters"><a href="#Letters" class="headerlink" title="Letters"></a><a href="https://apps.apple.com/cn/app/letters/id1233167730?mt=12" target="_blank" rel="noopener">Letters</a></h3><p>网址：<a href="https://apps.apple.com/cn/app/letters/id1233167730?mt=12" target="_blank" rel="noopener">https://apps.apple.com/cn/app/letters/id1233167730?mt=12</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/2020%E5%B9%B43%E6%9C%88%E7%83%AD%E9%97%A8%E7%9A%84%E8%B6%85%E5%AE%9E%E7%94%A8%E7%A5%9E%E5%99%A8%E6%8E%A8%E8%8D%90/5.jpg" alt=""></p><p><strong>一个Mac上的文字特效软件Letters，有很多免费的字体特效模板，通过修改软提供的模板，可以快速做出各种炫酷的文字效果</strong>。</p><h3 id="IconFinder"><a href="#IconFinder" class="headerlink" title="IconFinder"></a><a href="https://www.iconfinder.com/p/coronavirus-awareness-icons" target="_blank" rel="noopener">IconFinder</a></h3><p>网址：<a href="https://www.iconfinder.com/p/coronavirus-awareness-icons" target="_blank" rel="noopener">https://www.iconfinder.com/p/coronavirus-awareness-icons</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/2020%E5%B9%B43%E6%9C%88%E7%83%AD%E9%97%A8%E7%9A%84%E8%B6%85%E5%AE%9E%E7%94%A8%E7%A5%9E%E5%99%A8%E6%8E%A8%E8%8D%90/6.png" alt=""></p><p><strong>一套由IconFinder提供的300+新冠疫情主题图标，这些图标完全开源且免费可商用</strong>，图标风格多样，有黑白线条、彩色扁平、插画风，提供了矢量SVG和PNG格式。</p><h3 id="SleekBundle"><a href="#SleekBundle" class="headerlink" title="SleekBundle"></a><a href="https://sleekbundle.com" target="_blank" rel="noopener">SleekBundle</a></h3><p>网址：<a href="https://sleekbundle.com" target="_blank" rel="noopener">https://sleekbundle.com</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/官网/新发现一个免费可商用的高质量矢量插画/1.png" alt=""></p><p><strong>一个免费可商用的矢量插画素材SleekBundle，它提供了很多高质量的插画</strong>，网站上的插画有348个、2个套件、5个插图集，插画提供了EPS、PNG、SVG、AI、Sketch、Figma格式，可免费使用无需标注出处。</p><p><strong>PS：公众号后台回复「SleekBundle」即可免费下载打包好的所有插画资源</strong>。</p><h3 id="Animockup"><a href="#Animockup" class="headerlink" title="Animockup"></a><a href="https://animockup.com" target="_blank" rel="noopener">Animockup</a></h3><p>网址：<a href="https://animockup.com" target="_blank" rel="noopener">https://animockup.com</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/2020%E5%B9%B43%E6%9C%88%E7%83%AD%E9%97%A8%E7%9A%84%E8%B6%85%E5%AE%9E%E7%94%A8%E7%A5%9E%E5%99%A8%E6%8E%A8%E8%8D%90/9.png" alt=""></p><p><strong>一个在浏览器中快速创建动画样机模型并导出视频或动画GIF的工具 ➝ Animockup</strong>，它是一款GitHub上的开源项目，作者是来自美国旧金山的一位前端工程师。</p><h3 id="流程图和图表制作工具"><a href="#流程图和图表制作工具" class="headerlink" title="流程图和图表制作工具"></a><a href="https://www.maliquankai.com/2020/03/08/2020-03-08-flow-mind/" target="_blank" rel="noopener">流程图和图表制作工具</a></h3><p>网址：<a href="https://www.maliquankai.com/2020/03/08/2020-03-08-flow-mind/" target="_blank" rel="noopener">https://www.maliquankai.com/2020/03/08/2020-03-08-flow-mind/</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/官网/超全的在线流程图和图表制作工具/mind_cover.png" alt=""></p><p><strong>超全的在线流程图和图表制作工具</strong>，推荐几个新发现的流程图和图表制作工具都已更新到资源库，<strong>Creately - 在线图表制作协作平台，Miro - 在线协作式的白板平台，VisualSitemaps - 在几秒钟内自动生成可视站点地图，FlowMapp - 可视站点和用户流程的在线工具，Lucidchart..等</strong>。</p><h3 id="头像素材库"><a href="#头像素材库" class="headerlink" title="头像素材库"></a><a href="https://www.maliquankai.com/2020/03/06/2020-03-06-face-resource/" target="_blank" rel="noopener">头像素材库</a></h3><p>网址：<a href="https://www.maliquankai.com/2020/03/06/2020-03-06-face-resource/" target="_blank" rel="noopener">https://www.maliquankai.com/2020/03/06/2020-03-06-face-resource/</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/官网/最全的头像素材库帮你快速搞定一个酷酷的头像/face_cover.png" alt=""></p><p><strong>文章内涵盖了以前推荐过的头像素材</strong>，最近新发现了几个头像素材库，分别是Bottts - 机器人头像库，Avatar-Library - 免费的头像插画，Generated Photos - AI生成的头像库。</p><p><strong>码力全开资源站3月份新增了人物素材和博物馆素材分类，超实用的优质免抠人物矢量素材网站和各类艺术品高清图库在这里都能找到</strong>。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，访问<a href="https://www.maliquankai.cn" target="_blank" rel="noopener">码力全开大学堂</a>领取好礼，如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;blockquote&gt;
-&lt;p&gt;大家好，我是独立开发者Larry～2020年3月份分享了不少有用的神器，&lt;strong&gt;今天汇总整理一下3月份比较热门的效率利器，希望这些工具能够提升你的工作效率&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a 
-      
-    
-    </summary>
-    
-      <category term="工具资源" scheme="http://maliquankai.com/categories/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
-    
-    
-      <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
-    
-      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
     
   </entry>
   
