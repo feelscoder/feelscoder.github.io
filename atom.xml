@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maliquankai.com/"/>
-  <updated>2020-07-07T19:10:36.787Z</updated>
+  <updated>2020-07-15T10:58:09.250Z</updated>
   <id>http://maliquankai.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新产品 | 懒猫存钱 - 存钱记账有模有样</title>
+    <link href="http://maliquankai.com/2020/07/15/2020-07-15-lazycat-savemoney/"/>
+    <id>http://maliquankai.com/2020/07/15/2020-07-15-lazycat-savemoney/</id>
+    <published>2020-07-15T15:22:01.000Z</published>
+    <updated>2020-07-15T10:58:09.250Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，好久不见，自从HomeTime上线后，本计划今年不再开发新产品，因为现在的精力主要放在了视频剪辑和已有产品的维护上，但三个月前老婆怀孕了，以前花钱大手大脚，现在要为即将到来的宝宝做打算了，近期有了存钱的计划，所以就有了现在的懒猫存钱。</p></blockquote><h3 id="懒猫存钱的产品来源"><a href="#懒猫存钱的产品来源" class="headerlink" title="懒猫存钱的产品来源"></a>懒猫存钱的产品来源</h3><p>老婆怀孕，打算开始存奶粉钱，所以就想着<strong>开发一款简单的存钱类App</strong>，简单的构思之后很快纳入了我的开发计划，7月初每个晚上开始写新产品，<strong>白天依旧大部分时间放在了视频剪辑上</strong>，存钱功能基本写完的时候想到了记账功能，<strong>因为存钱和记账是相辅相成的，有的人存钱就是从记账开始，所以顺便把记账功能也做上了</strong>。</p><p>生活中很多人都想过存钱和记账，<strong>有时候记账的目的是为了存钱，存钱的目的是为了更好地生活和享受人生，但你是否能为自己的存钱目标或计划而坚持下去</strong>。</p><p><strong>懒猫存钱内置6种存钱模式帮你更有计划的存钱，同时还精心设计了超有爱的记账模式</strong>，从此存钱、记账两不误。</p><h3 id="懒猫存钱有哪些具体的功能？"><a href="#懒猫存钱有哪些具体的功能？" class="headerlink" title="懒猫存钱有哪些具体的功能？"></a>懒猫存钱有哪些具体的功能？</h3><p><strong>懒猫存钱支持6种存钱模式</strong>，比如：</p><ul><li>365天存钱法</li><li>52周存钱法</li><li>12存单</li><li>定额存钱法</li><li>自由存钱法</li><li>弹性存钱法</li></ul><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%96%B0%E4%BA%A7%E5%93%81%20%7C%20%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%20-%20%E5%AD%98%E9%92%B1%E8%AE%B0%E8%B4%A6%E6%9C%89%E6%A8%A1%E6%9C%89%E6%A0%B7/1_%E5%AD%98%E9%92%B1%E6%A8%A1%E5%BC%8F.png" alt=""></p><p><strong>根据自己的存钱需求自由选择，自动计算每天要存入的金额，让你更有计划的坚持存钱</strong>。</p><p><strong>记账模式：内置9个账本，支出、收入、账本、分类自由定义</strong>，快速记账和查看每天的记账信息。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%96%B0%E4%BA%A7%E5%93%81%20%7C%20%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%20-%20%E5%AD%98%E9%92%B1%E8%AE%B0%E8%B4%A6%E6%9C%89%E6%A8%A1%E6%9C%89%E6%A0%B7/2_%E8%AE%B0%E8%B4%A6%E6%A8%A1%E5%BC%8F.png" alt=""></p><p>记账统计：按周/月/年，<strong>折线图 / 柱状图 一目了然查看近期的记账数据</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%96%B0%E4%BA%A7%E5%93%81%20%7C%20%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%20-%20%E5%AD%98%E9%92%B1%E8%AE%B0%E8%B4%A6%E6%9C%89%E6%A8%A1%E6%9C%89%E6%A0%B7/3_%E8%AE%B0%E8%B4%A6%E7%BB%9F%E8%AE%A1.png" alt=""></p><p>记账详情：当前记账信息置顶，<strong>自动查询当天所有的记账数据</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%96%B0%E4%BA%A7%E5%93%81%20%7C%20%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%20-%20%E5%AD%98%E9%92%B1%E8%AE%B0%E8%B4%A6%E6%9C%89%E6%A8%A1%E6%9C%89%E6%A0%B7/4_%E8%AE%B0%E8%B4%A6%E8%AF%A6%E6%83%85.png" alt=""></p><p>账本/分类管理：可修改内置账本，<strong>可自定义添加账本</strong>，可修改支出、收入的分类，<strong>可自定义添加支出、收入的分类</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%96%B0%E4%BA%A7%E5%93%81%20%7C%20%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%20-%20%E5%AD%98%E9%92%B1%E8%AE%B0%E8%B4%A6%E6%9C%89%E6%A8%A1%E6%9C%89%E6%A0%B7/5_%E8%87%AA%E5%AE%9A%E4%B9%89%E8%B4%A6%E6%9C%AC-%E5%88%86%E7%B1%BB.png" alt=""></p><p>货币单位：<strong>支持10种常见的货币单位，自由切换自动计算</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%96%B0%E4%BA%A7%E5%93%81%20%7C%20%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%20-%20%E5%AD%98%E9%92%B1%E8%AE%B0%E8%B4%A6%E6%9C%89%E6%A8%A1%E6%9C%89%E6%A0%B7/6_%E8%B4%A7%E5%B8%81%E8%BD%AC%E6%8D%A2.png" alt=""></p><p>自定义底部栏：<strong>存钱、记账底部栏可互换位置</strong>。</p><p>隐私保护：<strong>密码锁定，保护你的私密存钱/记账数据</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%96%B0%E4%BA%A7%E5%93%81%20%7C%20%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%20-%20%E5%AD%98%E9%92%B1%E8%AE%B0%E8%B4%A6%E6%9C%89%E6%A8%A1%E6%9C%89%E6%A0%B7/7_%E5%AF%86%E7%A0%81%E9%94%81%E5%AE%9A.png" alt=""></p><p>懒猫存钱使用简洁的设计和功能，让存钱和记账变得从未如此简单，历时将近15个晚上的时间第一个版本1.0上线，<strong>可能会存在一些小Bug，后续的版本迭代都会一一解决更加完善，希望得到你的支持</strong>。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，好久不见，自从HomeTime上线后，本计划今年不再开发新产品，因为现在的精力主要放在了视频剪辑和已有产品的维护上，但三个月前老婆怀孕了，以前花钱大手大脚，现在要为即将到来的宝宝做打算了，近期有了存钱的计划，所以就
+      
+    
+    </summary>
+    
+      <category term="个人作品" scheme="http://maliquankai.com/categories/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="码力全开" scheme="http://maliquankai.com/tags/%E7%A0%81%E5%8A%9B%E5%85%A8%E5%BC%80/"/>
+    
+      <category term="个人作品" scheme="http://maliquankai.com/tags/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+  </entry>
   
   <entry>
     <title>一个完全免费的手绘矢量插画资源</title>
@@ -549,34 +577,6 @@
       
         &lt;p&gt;大家好，我是独立开发者Larry～，&lt;strong&gt;404插画素材在产品中经常用到，通过这些404插画友好的提示用户能给产品带来良好的用户体验&lt;/strong&gt;，以前推荐过一些404插画素材，今天推荐的这个质量尤其高。&lt;/p&gt;
 &lt;p&gt;它是&lt;strong&gt;Product Hu
-      
-    
-    </summary>
-    
-      <category term="设计资源" scheme="http://maliquankai.com/categories/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
-    
-    
-      <category term="插画素材" scheme="http://maliquankai.com/tags/%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/"/>
-    
-      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>推荐两个免费可商用的矢量插画素材</title>
-    <link href="http://maliquankai.com/2020/04/14/2020-04-14-illustraions-two/"/>
-    <id>http://maliquankai.com/2020/04/14/2020-04-14-illustraions-two/</id>
-    <published>2020-04-14T11:37:01.000Z</published>
-    <updated>2020-04-19T19:03:17.171Z</updated>
-    
-    <content type="html"><![CDATA[<p>大家好，我是独立开发者Larry～，最近新发现了两个<strong>免费可商用的矢量插画素材，一个是Retroooooo Folks - 矢量手绘草图库，另外一个是Black Illustrations - 黑肤色插画素材</strong>。</p><p><strong><a href="https://design.maliquankai.com" target="_blank" rel="noopener">码力全开资源站</a>插画素材目前已收录42个网站</strong>。</p><h3 id="Retroooooo-Folks"><a href="#Retroooooo-Folks" class="headerlink" title="Retroooooo Folks"></a><a href="https://www.manuelalangella.com/retroooo-folks" target="_blank" rel="noopener">Retroooooo Folks</a></h3><p>网址：<a href="https://www.manuelalangella.com/retroooo-folks" target="_blank" rel="noopener">https://www.manuelalangella.com/retroooo-folks</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%8F%AF%E5%95%86%E7%94%A8%E7%9A%84%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/1.jpg" alt=""></p><p><strong>Retroooooo Folks它有104张面孔、30个身体、39根头发、11个胡须、7个配件，可提供上千种组合，支持AI、Sketch、XD格式</strong>，灵感来自于Pablo Stanley。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%8F%AF%E5%95%86%E7%94%A8%E7%9A%84%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/2.jpg" alt=""></p><p>网站往下翻可以看到人物特征各不相同的手绘草图，<strong>特别是面包表情的变化可以组合上千种</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%8F%AF%E5%95%86%E7%94%A8%E7%9A%84%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/3.jpg" alt=""></p><p>这些手绘草图如何创建，这里分解解释了<strong>主要由头部、脸部、头发、身体等部分组成，可以创建黑白和彩色人物插画</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%8F%AF%E5%95%86%E7%94%A8%E7%9A%84%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/4.jpg" alt=""></p><p>把这些素材拖到Sketch里，<strong>可以很方便的修改人物的每个部分，包括填色、修改身体比例大小、面部特征等</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%8F%AF%E5%95%86%E7%94%A8%E7%9A%84%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/5.png" alt=""></p><p>这里提供了50多个制作好的黑白色调人物形象，<strong>面部表情多样</strong>，可以根据自己的需求选择。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%8F%AF%E5%95%86%E7%94%A8%E7%9A%84%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/6.jpg" alt=""></p><p>最后，这个手绘资源库提供了<strong>104张面孔、30个身体、39根头发、11个胡须、7个配件，可以直接点击DOWNLOAD THE LIBRARY免费下载</strong>。</p><p><strong>PS：公众号后台回复「Retroooooo Folks」即可免费下载打包好的所有插画素材</strong>。</p><h3 id="Black-Illustrations"><a href="#Black-Illustrations" class="headerlink" title="Black Illustrations"></a><a href="https://www.blackillustrations.com" target="_blank" rel="noopener">Black Illustrations</a></h3><p>网址：<a href="https://www.blackillustrations.com" target="_blank" rel="noopener">https://www.blackillustrations.com</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%8F%AF%E5%95%86%E7%94%A8%E7%9A%84%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/7.jpg" alt=""></p><p><strong>它是一个一个免费可商用的黑肤色插画素材，网站上有超过40种不同插画图案</strong>，主要分为办公室和日常生活、医疗专业人员两大类别，所有<strong>插画素材提供了PNG、JPG、AI、SVG、Sketch等格式</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%8F%AF%E5%95%86%E7%94%A8%E7%9A%84%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/8.jpg" alt=""></p><p>这些插画素材可免费用于商业和个人用途，它在<strong>ProductHunt上收获了457个赞，图库包含了40多种插画图供你选择</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%8F%AF%E5%95%86%E7%94%A8%E7%9A%84%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/9.jpg" alt=""></p><p>我们可以将这些插画素材用在用在你的下一个设计项目上，比如<strong>网站、移动端应用</strong>。</p><p><strong>PS：公众号后台回复「Black Illustrations」即可免费下载打包好的所有插画素材</strong>。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;大家好，我是独立开发者Larry～，最近新发现了两个&lt;strong&gt;免费可商用的矢量插画素材，一个是Retroooooo Folks - 矢量手绘草图库，另外一个是Black Illustrations - 黑肤色插画素材&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;
       
     
     </summary>
